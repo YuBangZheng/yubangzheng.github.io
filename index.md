@@ -1,5 +1,8 @@
 ## Welcome to the homepage of Yu-Bang Zheng
 
+
+![Image](https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/figs/yubangzheng.jpg)
+
 ## Publications 
 
 ### Journal
