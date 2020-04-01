@@ -1,7 +1,5 @@
 ## Welcome to the homepage of Yu-Bang Zheng
 
-You can use the [editor on GitHub](https://github.com/YuBangZheng/yubangzheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## Publications 
 
 ### Journal
