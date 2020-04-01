@@ -2,7 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/YuBangZheng/yubangzheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications 
+
+1. Yu-Bang Zheng, Ting-Zhu Huang*, Xi-Le Zhao*, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization'', IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 1, pp. 734–749, 2020. [pdf] [code]
+
+2. Yu-Bang Zheng, Ting-Zhu Huang*, Teng-Yu Ji, Xi-Le Zhao*, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization'', Applied Mathematical Modelling, vol. 70, pp. 677–695, 2019. [pdf] [code]
 
 ### Markdown
 
