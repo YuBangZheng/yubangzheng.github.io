@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/YuBangZheng/yubangzheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Publications 
+## Publications 
+
+### Journal
 
 1. Yu-Bang Zheng, Ting-Zhu Huang*, Xi-Le Zhao*, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization'', IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 1, pp. 734–749, 2020. [pdf] [code]
 
