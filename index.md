@@ -1,11 +1,9 @@
-# Welcome to the homepage of Yu-Bang Zheng
 
+![Image](https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/figs/yubangzheng.jpg)
 
-![](https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/figs/yubangzheng.jpg)
+## Publications 
 
-### Publications 
-
-**Journal**
+### Journal
 
 1. **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization'', _**IEEE Transactions on Geoscience and Remote Sensing**_, vol. 58, no. 1, pp. 734–749, 2020. [[pdf]](https://raw.githubusercontent.com/YuBangZheng/yubangzheng.github.io/master/papers/TGRS-low-fibered-rank.pdf) [[code]](https://github.com/YuBangZheng/code_TGRS_low-fibered-rank)
 
