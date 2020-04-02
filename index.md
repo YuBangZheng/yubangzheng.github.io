@@ -3,9 +3,9 @@
 
 ![Image](https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/figs/yubangzheng.jpg)
 
-## Publications 
+### Publications 
 
-### Journal
+**Journal**
 
 1. **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization'', _**IEEE Transactions on Geoscience and Remote Sensing**_, vol. 58, no. 1, pp. 734–749, 2020. [[pdf]](https://raw.githubusercontent.com/YuBangZheng/yubangzheng.github.io/master/papers/TGRS-low-fibered-rank.pdf) [[code]](https://github.com/YuBangZheng/code_TGRS_low-fibered-rank)
 
@@ -34,12 +34,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuBangZheng/yubangzheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
