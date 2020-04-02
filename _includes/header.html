@@ -42,15 +42,7 @@
             {% endif %}
 			{% if p.title != "About" %}
             <a href="{{ p.url | prepend: site.baseurl }}"><span class="glyphicon glyphicon-ok"></span> {{ p.title }}</a></li>
-			{% endif %}
-          {% endif %}
-        {% endfor %}
-		{% if page.url == "/" %}
-          <li class="active">
-          {% else %}
-          <li>
-        {% endif %}
-        <a href="{{ site.baseurl }}/index.html"><span class="glyphicon glyphicon-ok"></span> Other</a></li>
+			
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
