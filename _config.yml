@@ -10,7 +10,7 @@ description: Homepage
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: Y.-B. Zheng
+github_username: YuBang Zheng
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/
