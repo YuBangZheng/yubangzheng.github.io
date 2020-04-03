@@ -13,7 +13,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br>**Yu-Bang Zheng** is currently pursuing the Ph.D. degree (advised by [Ting-Zhu Huang](https://csyhua.github.io/csyhua/index.html)) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China. His research interest includes sparse and low rank modeling for image processing problems. <br> <br> **Email:** <zhengyubang@163.com>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
+| <br>**Yu-Bang Zheng** is currently pursuing the Ph.D. degree (advised by [Ting-Zhu Huang](https://csyhua.github.io/csyhua/index.html)) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China. His research interest includes sparse and low-rank modeling for high-dimensional image processing problems. <br> <br> **Email:** <zhengyubang@163.com>  &emsp; **CV:** [Pengfei-Zuo.pdf](https://pfzuo.github.io/images/CV-Pengfei-Zuo.pdf) <br> <br> | <br> &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
 
 
 ## Publications
