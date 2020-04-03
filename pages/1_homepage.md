@@ -28,11 +28,13 @@ permalink: /homepage/
 
 ### Journal
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed noise removal in hyperspectral image via low-fibered-rank regularization", **IEEE Transactions on Geoscience and Remote Sensing**, 2020, 58(1): 734-749. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf)[[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed noise removal in hyperspectral image via low-fibered-rank regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf)[[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
 
-* Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://asplos-conference.org/programs/)", in Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[PDF]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf)[[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
 
-* Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol.39, No.1, January 2020, pages: 62-74.
+* Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[PDF]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
+
+* Jian-Li Wang, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://yubangzheng.github.io/papers/JSTARS-jlwang.pdf)
 
 
 ### Conference
