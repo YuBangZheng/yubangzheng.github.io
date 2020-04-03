@@ -17,9 +17,16 @@ permalink: /homepage/
 
 ---
 
+## News
+
+*  Student Grant from MICRO, 2019
+
+
+---
+
 ## Publications
 
-#### Journal
+### Journal
 
 * Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression", Proceedings of the 57th Design Automation Conference (**DAC**), 2020.  
 
@@ -28,7 +35,7 @@ permalink: /homepage/
 * Yuncheng Guo, Yu Hua, **Pengfei Zuo**, "[A Latency-optimized and Energy-efficient Write Scheme in NVM-based Main Memory](https://csyhua.github.io/csyhua/hua-tcad2018-nvm.pdf)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), Vol.39, No.1, January 2020, pages: 62-74.
 
 
-#### Conference
+### Conference
 
 * **Pengfei Zuo**, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2019.    
 [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
@@ -47,10 +54,9 @@ permalink: /homepage/
 
 * Jie Wu, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, "[Improving Restore Performance in Deduplication Systems via a Cost-Efficient Rewriting Scheme](https://csyhua.github.io/csyhua/hua-tpds2018-dedup.pdf)", in IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 30, no. 1, pp. 119-132, 1 Jan. 2019.
 
-
-## WiPs and Posters 
-
 ---
+
+## Experiences 
 
 * Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Efficient Similarity-aware Image Compression via Approximation for NVM-based Main Memory", Poster in the 10th Annual Non-volatile Memories Workshop (**NVMW**), 2019.
 
@@ -60,10 +66,10 @@ permalink: /homepage/
 
 * **Pengfei Zuo**, Yu Hua, Dan Feng, Zhenhua Nie, Min Fu, Yuanyuan Sun, "E-STORE: An Energy-constrained Smartphone Storage for Near Real-time Disaster Image Sharing", Poster in the 13rd USENIX Conference on File and Storage Technologies (**FAST**), 2015.
 
+---
 
 ## Awards and Honors
 
----
 *  Student Grant from MICRO, 2019
 *  Shenzhen Stock Exchange Scholarship, 2019 (CN¥12,000)
 *  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/)
@@ -75,10 +81,9 @@ permalink: /homepage/
 *  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018
 *  Award of Excellent B.E. Thesis in Hubei Province, 2014
 
-
-## Talks
-
 ---
+
+## Reports
 
 |01/2020|"The Growing Course of A PhD in Computer System and Architecture", Invited Talk in the 2nd Summit Forum of SKL of Computer Architecture. |Beijing, China
 |12/2019|"SuperMem: Revitalizing the Write-through Cache for Secure Persistent Memory", Invited Talk in the 17th ChinaSys workshop. |Zhuhai, China
