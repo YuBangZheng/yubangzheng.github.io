@@ -15,8 +15,6 @@ permalink: /homepage/
  
 | <br>**Yu-Bang Zheng** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. His research interest includes sparse and low-rank modeling for high-dimensional image processing problems. <br> <br> **Email:** <zhengyubang@163.com>  &emsp; **CV:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
 
----
-
 ### News
 
 * 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _**Numerical Algorithms**_.
