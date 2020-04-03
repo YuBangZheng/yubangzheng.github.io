@@ -34,4 +34,4 @@ markdown: kramdown
 # highlighter: false
 
 port: 4001
-img{zoom: 50%}
+img{ zoom: 50%;}
