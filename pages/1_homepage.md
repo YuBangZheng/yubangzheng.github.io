@@ -31,7 +31,7 @@ permalink: /homepage/
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[PDF]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[PDF]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[Code]](https://yubangzheng.github.io/Codes/code_SMF-LRTC.zip)
 
 * Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[PDF]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
 
@@ -51,9 +51,9 @@ permalink: /homepage/
 
 ## Experiences 
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: Prof. Ting-Zhu Huang)
+* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: Prof. Ting-Zhu Huang)
+* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
 * 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
@@ -68,4 +68,4 @@ permalink: /homepage/
 
 ## Reports
 
-|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", Presentation in **IGARSS 2019**. |Yokohama, Japan
+|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", Presentation in **IGARSS 2019** |Yokohama, Japan
