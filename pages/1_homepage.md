@@ -9,7 +9,7 @@ permalink: /homepage/
 * content
 {:toc}
 
-<style> img{ width: 60%;} </style>
+<style> img{ width: 20%;} </style>
  
 ## Biography
  
