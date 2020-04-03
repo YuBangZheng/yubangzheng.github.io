@@ -29,7 +29,7 @@ permalink: /homepage/
 
 ### Journal
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/Codes/code_TGRS_low-fibered-rank.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[PDF]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[Code]](https://yubangzheng.github.io/Codes/code_SMF-LRTC.zip)
 
@@ -43,7 +43,7 @@ permalink: /homepage/
 
 ### Conference
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222–225. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg) [[Slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222–225. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/Codes/code_TGRS_low-fibered-rank.zip) [[Slides](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)]
 
 * Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1–5. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/Tianlu.pdf)
  
