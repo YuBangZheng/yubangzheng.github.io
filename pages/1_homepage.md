@@ -19,8 +19,9 @@ permalink: /homepage/
 
 ## News
 
-*  Student Grant from MICRO, 2019
+* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by **Numerical Algorithms**.
 
+* 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by **IEEE Transactions on Geoscience and Remote Sensing**.
 
 ---
 
@@ -28,7 +29,7 @@ permalink: /homepage/
 
 ### Journal
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[PDF]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
 
@@ -37,6 +38,8 @@ permalink: /homepage/
 * Jian-Li Wang, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://yubangzheng.github.io/papers/JSTARS-jlwang.pdf)
 
 * Xi-Le Zhao, Xin Nie, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Tensor Nuclear Norm With Hybrid Smooth Regularization", _IEEE Access_, vol. 7, pp. 131888-131901, 2019. [[PDF]](https://yubangzheng.github.io/papers/ieee_access_xlz.pdf)
+
+* Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, 2020. 
 
 ### Conference
 
