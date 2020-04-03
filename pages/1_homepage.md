@@ -28,7 +28,7 @@ permalink: /homepage/
 
 ### Journal
 
-* Zhangyu Chen, Yu Hua, **Pengfei Zuo**, Yuanyuan Sun, Yuncheng Guo, "Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression", Proceedings of the 57th Design Automation Conference (**DAC**), 2020.  
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed noise removal in hyperspectral image via low-fibered-rank regularization", **IEEE Transactions on Geoscience and Remote Sensing**, 2020, 58(1): 734-749. [[PDF]](https://yubangzheng.github.io/images/yubangzheng.jpg)[[Code]](https://yubangzheng.github.io/images/yubangzheng.jpg)
 
 * Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, **Pengfei Zuo**, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://asplos-conference.org/programs/)", in Proceedings of the 25th International Conference on Architectural Support for  Programming Languages and Operating Systems (**ASPLOS**), 2020. 
 
