@@ -1,6 +1,3 @@
-<style> img{ width: 60%;} </style>
-
-
 ---
 layout: page
 title: Homepage
@@ -12,6 +9,7 @@ permalink: /homepage/
 * content
 {:toc}
 
+<style> img{ width: 60%;} </style>
  
 ## Biography
  
