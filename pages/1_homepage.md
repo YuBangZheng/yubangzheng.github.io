@@ -19,9 +19,9 @@ permalink: /homepage/
 
 ## News
 
-* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by **Numerical Algorithms**.
+* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _Numerical Algorithms_.
 
-* 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by **IEEE Transactions on Geoscience and Remote Sensing**.
+* 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 ---
 
@@ -61,8 +61,8 @@ permalink: /homepage/
 
 ## Awards and Honors
 
-*  Special postgraduate scholarship of science, 2019
-*  Pacemaker to Merit Student, 2015 and 2016
+*  Special postgraduate scholarship of science, UESTC, 2019
+*  Pacemaker to Merit Student, AUFE, 2015 and 2016
 
 ---
 
