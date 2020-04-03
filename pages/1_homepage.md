@@ -19,7 +19,7 @@ permalink: /homepage/
 
 ## News
 
-* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _Numerical Algorithms_.
+* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _**Numerical Algorithms**_.
 
 * 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
@@ -68,4 +68,4 @@ permalink: /homepage/
 
 ## Reports
 
-|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", Presentation in IGARSS 2019. |Yokohama, Japan
+|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", Presentation in **IGARSS 2019**. |Yokohama, Japan
