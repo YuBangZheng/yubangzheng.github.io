@@ -11,15 +11,15 @@ permalink: /Chinese/
 
 
  
-### Biography
+### 简介
  
-| <br>**Yu-Bang Zheng** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. His research interest includes sparse and low-rank modeling for high-dimensional image processing problems. <br> <br> **Email:** <zhengyubang@163.com>  &emsp; **CV:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+| <br>**郑玉棒**, 数学专业博士, 现就读于[电子科技大学](https://www.uestc.edu.cn/)数学科学学院[(http://www.math.uestc.edu.cn/index.htm)]。 (导师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐yanj](https://zhaoxile.github.io/))。 研究方向包括高维图像处理、张量低秩建模和高性能算法设计. <br> <br> **邮箱:** <zhengyubang@163.com>  &emsp; **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
 
 ### 消息
 
-* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _**Numerical Algorithms**_.
+* 2020.01.01: 文章 "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" 被期刊 _**Numerical Algorithms**_ 接收.
 
-* 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
+* 2019.09.07: 文章 "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
 
 ---
 
@@ -59,12 +59,12 @@ permalink: /Chinese/
 
 ### 获奖情况
 
-*  理科特别奖学金, 电子科技大学, 2019
-*  三好学生标兵, 安徽财经大学, 2015 and 2016
+*  理科特别奖学金  电子科技大学  2019
+*  三好学生标兵  安徽财经大学  2015, 2016
 
 ---
 
 ### 报告
 
-|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", 口头报告, **IGARSS 2019** |日本, 横滨
+|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", 口头报告, **IGARSS 2019** |日本 横滨
 
