@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**郑玉棒**, 数学专业博士生, 现就读于[电子科技大学](https://www.uestc.edu.cn/)[数学科学学院](http://www.math.uestc.edu.cn/index.htm)(导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐研究员](https://zhaoxile.github.io/))。 研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文6篇（其中第一作者2篇）, 会议论文2篇（其中第一作者1篇）。 <br> <br> **邮箱:** <zhengyubang@163.com>  &emsp; **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+| <br>**郑玉棒**, 数学专业博士生, 现就读于[电子科技大学](https://www.uestc.edu.cn/)[数学科学学院](http://www.math.uestc.edu.cn/index.htm)(导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐研究员](https://zhaoxile.github.io/))。 研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文6篇（其中第一作者2篇）, 会议论文2篇（其中第一作者1篇）。 <br> <br> **邮箱:** <zhengyubang@163.com>  <br>  **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
 
 ### 消息
 
