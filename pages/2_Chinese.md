@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中文版
+title: 郑玉棒的主页
 comments: true
 permalink: /Chinese/
 
