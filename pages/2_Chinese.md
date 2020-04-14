@@ -29,7 +29,7 @@ permalink: /Chinese/
 
 #### 期刊
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, 2020. 
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[代码]](https://yubangzheng.github.io/Codes/code_LRTFDFR.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[代码]](https://yubangzheng.github.io/Codes/code_TGRS_low-fibered-rank.zip)
 
