@@ -17,7 +17,9 @@ permalink: /Chinese/
 
 ### 消息
 
-* 2020.04.10: 文章 "Double Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
+* 2020.05.01: 文章 "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" 被期刊 _**Information Sciences**_ 接收.
+
+* 2020.04.10: 文章 "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
 
 * 2020.01.01: 文章 "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" 被期刊 _**Numerical Algorithms**_ 接收.
 
@@ -29,7 +31,9 @@ permalink: /Chinese/
 
 #### 期刊
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[代码]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery", _Information Sciences_, **accepted**. [[全文]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[代码]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[代码]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[代码]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
