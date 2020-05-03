@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**郑玉棒**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐研究员](https://zhaoxile.github.io/)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文7篇（其中第一作者3篇）, 会议论文2篇（其中第一作者1篇）。 <br> <br> **邮箱:** <zhengyubang@163.com> <br>  **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+| <br>**郑玉棒**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐研究员](https://zhaoxile.github.io/)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文2篇（其中第一作者1篇）。 <br> <br> **邮箱:** <zhengyubang@163.com> <br>  **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
 
 ### 消息
 
