@@ -49,7 +49,7 @@ permalink: /Chinese/
 
 #### 会议
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[全文]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[代码]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) [[PPT](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)]
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[全文]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[代码]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
 * Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[全文]](https://yubangzheng.github.io/papers/Tianlu.pdf)
  
@@ -71,8 +71,4 @@ permalink: /Chinese/
 *  三好学生标兵  安徽财经大学  2015, 2016
 
 ---
-
-### 报告
-
-|07/2020|"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", 口头报告, **IGARSS 2019** |日本 横滨
 
