@@ -45,13 +45,13 @@ permalink: /homepage/
 
 * Xi-Le Zhao, Xin Nie, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Tensor Nuclear Norm With Hybrid Smooth Regularization", _IEEE Access_, vol. 7, pp. 131888-131901, 2019. [[PDF]](https://yubangzheng.github.io/papers/ieee_access_xlz.pdf)
 
-* Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, 2020, doi: 10.1007/s11075-020-00876-y. 
+* Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, doi: 10.1007/s11075-020-00876-y, 2020. 
 
 #### Conference
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
-* Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/Tianlu.pdf)
+* Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/TianLu.pdf)
  
 ---
 
