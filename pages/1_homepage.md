@@ -31,7 +31,7 @@ permalink: /homepage/
 
 #### Journal
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery", _Information Sciences_, **accepted**, doi: https://doi.org/10.1016/j.ins.2020.05.005, 2020. [[PDF]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[PDF]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
