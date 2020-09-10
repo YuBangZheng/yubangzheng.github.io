@@ -70,7 +70,6 @@ permalink: /homepage/
 *  Special postgraduate scholarship of science, UESTC, 2019
 *  Pacemaker to Merit Student, AUFE, 2015 and 2016
 
-### Report
+### Reports
 
-------------
-------------
+* 07/2019: Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization, Yokohama Japan (Oral)
