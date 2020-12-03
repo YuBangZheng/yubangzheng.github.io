@@ -13,9 +13,11 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**郑玉棒**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文2篇（其中第一作者1篇）。 <br> <br> **邮箱:** <zhengyubang@163.com> <br>  **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+| <br>**郑玉棒**, 电子科技大学数学科学学院2019级数学专业博士生, 导师为[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。 本科就读于安徽财经大学统计与应用数学学院, 硕士就读于电子科技大学数学科学学院。目前研究方向包括高维图像处理、张量低秩建模和高性能算法设计。已发表或录用SCI论文8篇（其中第一作者4篇）, 会议论文3篇（其中第一作者2篇）。 <br> <br> **邮箱:** <zhengyubang@163.com> <br>  **个人简历:** [Yu-Bang Zheg.pdf](https://yubangzheng.github.io/images/CV-ybzheng.pdf) <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=qj6IPAMAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
 
 ### 消息
+
+* 2020.12.02: 文章 "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" 被机器学习领域顶会 _**AAAI 2021**_ 接收.
 
 * 2020.05.01: 文章 "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" 被期刊 _**Information Sciences**_ 接收.
 
@@ -23,15 +25,13 @@ permalink: /Chinese/
 
 * 2020.01.01: 文章 "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" 被期刊 _**Numerical Algorithms**_ 接收.
 
-* 2019.09.07: 文章 "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
-
 ---
 
 ### 学术论文
 
 #### 期刊
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[代码]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. [[全文]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[代码]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[全文]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[全文2]](https://yubangzheng.github.io/papers/IS-N-tubal-rank2.pdf) [[代码]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
 
@@ -67,6 +67,7 @@ permalink: /Chinese/
 
 ### 获奖情况
 
+*  博士研究生国家奖学金  电子科技大学  2020
 *  理科特别奖学金  电子科技大学  2019
 *  三好学生标兵  安徽财经大学  2015, 2016
 
