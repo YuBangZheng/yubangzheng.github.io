@@ -17,13 +17,14 @@ permalink: /homepage/
 
 ### News
 
+* 2020.12.02: One paper "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" has been accepted by _**AAAI 2021**_.
+
 * 2020.05.01: One paper "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" has been accepted by _**Information Sciences**_.
 
 * 2020.04.10: One paper "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 * 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _**Numerical Algorithms**_.
 
-* 2019.09.07: One paper "Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 ---
 
@@ -31,7 +32,7 @@ permalink: /homepage/
 
 #### Journal
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.2987954, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. [[PDF]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[PDF]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[PDF2]](https://yubangzheng.github.io/papers/IS-N-tubal-rank2.pdf) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
 
