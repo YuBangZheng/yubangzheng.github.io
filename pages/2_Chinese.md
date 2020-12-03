@@ -75,5 +75,5 @@ permalink: /Chinese/
 
 ### 报告
 
-* 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **日本 横滨**  小组报告
+* 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **日本横滨**,  小组报告
 
