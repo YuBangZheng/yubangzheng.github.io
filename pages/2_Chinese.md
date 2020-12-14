@@ -17,6 +17,8 @@ permalink: /Chinese/
 
 ### 消息
 
+* 2020.12.11: 文章 "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization" 被期刊 _**IEEE Transactions on Geoscience and Remote Sensing**_ 接收.
+
 * 2020.12.02: 文章 "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" 被机器学习领域顶会 _**AAAI 2021**_ 接收.
 
 * 2020.05.01: 文章 "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" 被期刊 _**Information Sciences**_ 接收.
@@ -40,6 +42,8 @@ permalink: /Chinese/
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, "Low-Rank Tensor Completion via Smooth Matrix Factorization", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[全文]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[代码]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[全文]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[PPT]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[代码]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+
+* Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, 2021.
 
 * Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[全文]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
 
