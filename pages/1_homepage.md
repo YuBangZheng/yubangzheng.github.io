@@ -70,6 +70,7 @@ permalink: /homepage/
 
 ### Awards and Honors
 
+*  National Scholarship for Ph. D. student, UESTC, 2020
 *  Special postgraduate scholarship of science, UESTC, 2019
 *  Pacemaker to Merit Student, AUFE, 2015 and 2016
 
