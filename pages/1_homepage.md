@@ -44,7 +44,7 @@ permalink: /homepage/
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
-* Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
+* Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
 * Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[PDF]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
 
