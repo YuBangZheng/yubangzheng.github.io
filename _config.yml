@@ -16,7 +16,6 @@ permalink: /:year/:month/:day/:title/
 viewsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
 newsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 duoshuo_shortname: ybzheng
