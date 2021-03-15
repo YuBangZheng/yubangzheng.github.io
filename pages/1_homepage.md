@@ -64,7 +64,7 @@ permalink: /homepage/
 
 * 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
+* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
 
 ---
 
