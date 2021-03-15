@@ -78,4 +78,6 @@ permalink: /homepage/
 
 ### Reports
 
+* 02/2021: "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion", _AAAI 2021_, **Online**
+
 * 07/2019: "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", _IGARSS 2019_, **Yokohama, Japan** (Oral)
