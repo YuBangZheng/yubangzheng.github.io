@@ -30,7 +30,7 @@ permalink: /publications/
 
 3. Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, vol. 86, pp. 1-24, 2021.
 
-2 Lin Guo, Xi-Le Zhao, Xian-Ming Gu, Yong-Liang Zhao, **Yu-Bang Zheng**, Ting-Zhu Huang, "Three-Dimensional Fractional Total Variation Regularized Tensor Optimized Model for Image Deblurring", _Applied Mathematics and Computation_, vol. 404, pp. 126224, 2021.
+2. Lin Guo, Xi-Le Zhao, Xian-Ming Gu, Yong-Liang Zhao, **Yu-Bang Zheng**, Ting-Zhu Huang, "Three-Dimensional Fractional Total Variation Regularized Tensor Optimized Model for Image Deblurring", _Applied Mathematics and Computation_, vol. 404, pp. 126224, 2021.
 
 1. Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/TianLu.pdf)
 
