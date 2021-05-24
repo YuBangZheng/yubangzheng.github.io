@@ -101,15 +101,8 @@ permalink: /homepage/
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${https://yubangzheng.github.io/})
 
 
-<ul>
-<p>
-<td align="center">
-<div style="text-align:center;display:inline-block;width:330px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=51ldn1fwksc&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></div>
-</td>
-</p>
-</ul>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
-<p class="auto-style7"  align="center"><font size="4" face="Arial">
-<span id="lastModified"></span></font></p>
+
 
 
