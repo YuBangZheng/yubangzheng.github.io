@@ -94,3 +94,17 @@ permalink: /homepage/
 *  IEEE Transactions on Neural Networks and Learning Systems
 *  Applied Mathematical Modeling
 *  Information Systems
+
+
+<a  name="Visitors">&nbsp; </a>
+<h2>Visitors:</h2>
+<ul>
+<p>
+<td align="center">
+<div style="text-align:center;display:inline-block;width:330px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=51ldn1fwksc&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></div>
+</td>
+</p>
+</ul>
+
+<p class="auto-style7"  align="center"><font size="4" face="Arial">
+<span id="lastModified"></span></font></p>
