@@ -451,7 +451,7 @@ blockquote:last-child {
 	bottom: 0px;
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1600px){
 	.post{
 		padding:10px 10px;
 		font-size: 14px;
