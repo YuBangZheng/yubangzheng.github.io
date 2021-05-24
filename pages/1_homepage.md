@@ -96,8 +96,8 @@ permalink: /homepage/
 *  Information Systems
 
 
-<a  name="Visitors">&nbsp; </a>
-<h2>Visitors:</h2>
+### Visitors
+
 <ul>
 <p>
 <td align="center">
