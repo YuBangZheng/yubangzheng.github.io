@@ -98,6 +98,9 @@ permalink: /homepage/
 
 ### Visitors
 
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${https://yubangzheng.github.io/})
+
+
 <ul>
 <p>
 <td align="center">
@@ -108,3 +111,5 @@ permalink: /homepage/
 
 <p class="auto-style7"  align="center"><font size="4" face="Arial">
 <span id="lastModified"></span></font></p>
+
+
