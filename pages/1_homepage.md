@@ -89,6 +89,7 @@ permalink: /homepage/
 *  IEEE Transactions on Neural Networks and Learning Systems
 *  Applied Mathematical Modeling
 *  Information Systems
+*  Machine Learning
 *  Signal Processing: Image Communication
 *  ACML 2021
 
