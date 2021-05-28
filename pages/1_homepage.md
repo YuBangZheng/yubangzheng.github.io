@@ -89,6 +89,7 @@ permalink: /homepage/
 *  IEEE Transactions on Neural Networks and Learning Systems
 *  Applied Mathematical Modeling
 *  Information Systems
+*  Signal Processing: Image Communication
 
 #### Co-authors
 
