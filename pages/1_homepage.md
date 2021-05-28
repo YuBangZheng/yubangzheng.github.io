@@ -93,15 +93,16 @@ permalink: /homepage/
 #### Co-authors
 
 *  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-*  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/))
-*  [Prof. Qibin Zhao](https://qibinzhao.github.io))
+*  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
+*  [Prof. Qibin Zhao](https://qibinzhao.github.io)
 *  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
-*  [Dr. Teng-Yu Ji](https://zhaoxile.github.io/)
+*  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
 *  Dr. Tian-Hui Ma
 *  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 *  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
 *  Dr. Meng Ding
 *  [Dr. Jie Lin](https://jielin96.github.io/)
+*  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
