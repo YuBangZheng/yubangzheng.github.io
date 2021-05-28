@@ -100,7 +100,7 @@ permalink: /homepage/
 *  Dr. Tian-Hui Ma
 *  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 *  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
-*  Dr. Meng Ding
+*  [Dr. Meng Ding](https://mengding56.github.io)
 *  [Dr. Jie Lin](https://jielin96.github.io/)
 *  ... ...
 
