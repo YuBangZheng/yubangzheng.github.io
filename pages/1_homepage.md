@@ -97,11 +97,12 @@ permalink: /homepage/
 *  [Prof. Qibin Zhao](https://qibinzhao.github.io)
 *  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
 *  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
-*  Dr. Tian-Hui Ma
+*  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
 *  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 *  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
 *  [Dr. Meng Ding](https://mengding56.github.io)
 *  [Dr. Jie Lin](https://jielin96.github.io/)
+*  [Dr. Wei He](https://sites.google.com/site/rshewei/home)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
