@@ -71,7 +71,8 @@ permalink: /homepage/
 
 *  Academic Rookie, UESTC, 2021
 *  National Scholarship for Ph. D. student, UESTC, 2020
-*  Special postgraduate scholarship of science, UESTC, 2019
+*  Academic Scholarship, UESTC, 2020
+*  Special Postgraduate Scholarship of Science, UESTC, 2019
 *  Pacemaker to Merit Student, AUFE, 2015 and 2016
 
 ---
