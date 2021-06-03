@@ -16,13 +16,6 @@ permalink: /homepage/
 
 * 2020.12.02: One paper "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" has been accepted by _**AAAI 2021**_.
 
-* 2020.05.01: One paper "Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery" has been accepted by _**Information Sciences**_.
-
-* 2020.04.10: One paper "Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
-
-* 2020.01.01: One paper "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion" has been accepted by _**Numerical Algorithms**_.
-
-
 ---
 
 ### Publications
