@@ -21,10 +21,10 @@ permalink: /homepage/
  *************************************/
 div.noshow { display: none; }
 div.BibTeX {
-  margin-right: 0%;
+  margin-right: 5%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
-  border: 50px solid silver;
+  border: 2px solid silver;
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
