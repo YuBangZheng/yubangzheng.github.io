@@ -21,14 +21,15 @@ permalink: /homepage/
  *************************************/
 div.noshow { display: none; }
 div.BibTeX {
-  margin-right: 5%;
+  margin-right: 1%;
+  margin-left: 1%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
-  border: 2px solid silver;
+  border: 1px solid silver;
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
-div.BibTeX pre { font-size: 75%; overflow: auto;  width: 100%; }
+div.BibTeX pre { font-size: 80%; overflow: auto;  width: 100%; }
 </style>
 
 <script>
