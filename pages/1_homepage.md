@@ -22,7 +22,7 @@ permalink: /homepage/
 div.noshow { display: none; }
 div.BibTeX {
   margin-right: 1%;
-  margin-left: 2.5%;
+  margin-left: 3%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
   border: 1px solid silver;
@@ -137,7 +137,7 @@ author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and
 <div id="bib_AMM_SMFLRTC" class="BibTeX noshow">
 <pre>
 @article{AMM_SMFLRTC,
-  title = {Low-rank tensor completion via smooth matrix factorization},
+  title = {Low-Rank Tensor Completion via Smooth Matrix Factorization},
   journal = {Applied Mathematical Modelling},
   volume = {70},
   pages = {677-695},
@@ -155,7 +155,7 @@ author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and
 <pre>
 @inproceedings{IGARSS2019_fibered,
   author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang and Huang, Jie},
-  booktitle={IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium}, 
+  booktitle={IEEE International Geoscience and Remote Sensing Symposium}, 
   title={Hyperspectral Image Denoising Via Convex Low-Fibered-Rank Regularization}, 
   year={2019},
   volume={},
