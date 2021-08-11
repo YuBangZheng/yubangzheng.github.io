@@ -24,7 +24,7 @@ div.bibtex {
   margin-right: 0%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
-  border: 1px solid silver;
+  border: 5px solid silver;
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
