@@ -22,7 +22,7 @@ permalink: /homepage/
 div.noshow { display: none; }
 div.BibTeX {
   margin-right: 1%;
-  margin-left: 3%;
+  margin-left: 4%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
   border: 1px solid silver;
@@ -161,7 +161,6 @@ author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and
   volume={},
   number={},
   pages={222-225},
-  doi={10.1109/IGARSS.2019.8900157}
   }
 </pre>
 </div>
