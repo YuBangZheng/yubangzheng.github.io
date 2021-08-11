@@ -28,7 +28,7 @@ div.bibtex {
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 90%; }
 </style>
 
 <script>
