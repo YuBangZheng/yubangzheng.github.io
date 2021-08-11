@@ -34,6 +34,8 @@ permalink: /homepage/
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
+* Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, Jian-Li Wang, **Yu-Bang Zheng**, "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, 2021. [[PDF]](https://arxiv.org/pdf/2102.12310.pdf)
+
 * Xiao-Tong Li, Xi-Le Zhao, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[PDF]](https://yubangzheng.github.io/papers/Neurocomputing-NLSLR-xtl.pdf)
 
 * Jian-Li Wang, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, "Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[PDF]](https://yubangzheng.github.io/papers/JSTARS-jlwang.pdf) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
