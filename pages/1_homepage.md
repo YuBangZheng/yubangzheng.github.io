@@ -67,13 +67,13 @@ function toggleBibtex(articleid) {
 <div id="bib_zhengFCTN2021" class="BibTeX noshow">
 <pre>
 @inproceedings{zhengFCTN2021,
- title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
- author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
- booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
- volume={35},
- number={12},
- pages={11071-11078},
- year={2021},  
+  title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
+  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={12},
+  pages={11071-11078},
+  year={2021},  
 }
 </pre>
 </div>
@@ -84,14 +84,14 @@ function toggleBibtex(articleid) {
 <div id="bib_TGRS_LRTFDFR" class="BibTeX noshow">
 <pre>
 @article{TGRS_LRTFDFR,
-author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Yong  Chen  and Wei He}, 
-journal = {IEEE Transactions on Geoscience and Remote Sensing},  
-title = {Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image},
-year={2020},
-volume={58},
-number={12},
-pages={8450-8464},
-month={Dec.},
+  author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Yong Chen and Wei He}, 
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},  
+  title = {Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image},
+  year={2020},
+  volume={58},
+  number={12},
+  pages={8450-8464},
+  month={Dec.},
 }
 </pre>
 </div>
@@ -101,14 +101,14 @@ month={Dec.},
 
 <div id="bib_IS_Ntubal" class="BibTeX noshow">
 <pre>
-@article{IS_Ntubal,
-author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Teng-Yu Ji and Tian-Hui Ma},
-journal = {Information Sciences},
-title = {Tensor {N}-tubal rank and its convex relaxation for low-rank tensor recovery},
-volume = {532},
-pages = {170-189},
-year = {2020},
-month={Sep.},
+  @article{IS_Ntubal,
+  author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Teng-Yu Ji and Tian-Hui Ma},
+  journal = {Information Sciences},
+  title = {Tensor {N}-tubal rank and its convex relaxation for low-rank tensor recovery},
+  volume = {532},
+  pages = {170-189},
+  year = {2020},
+  month={Sep.},
 }
 </pre>
 </div>
@@ -120,13 +120,13 @@ month={Sep.},
 <pre>
 @article{TGRS_fibered,
 author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma and Teng-Yu Ji},
-journal={IEEE Transactions on Geoscience and Remote Sensing},
-title={Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization},
-year={2020},
-volume={58},
-number={1},
-pages={734-749},
-month={Jan.},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization},
+  year={2020},
+  volume={58},
+  number={1},
+  pages={734-749},
+  month={Jan.},
 }
 </pre>
 </div>
@@ -137,19 +137,35 @@ month={Jan.},
 <div id="bib_AMM_SMFLRTC" class="BibTeX noshow">
 <pre>
 @article{AMM_SMFLRTC,
-title = {Low-rank tensor completion via smooth matrix factorization},
-journal = {Applied Mathematical Modelling},
-volume = {70},
-pages = {677-695},
-year = {2019},
-author = {Yu-Bang Zheng and Ting-Zhu Huang and Teng-Yu Ji and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma},
-month={Jun.},
+  title = {Low-rank tensor completion via smooth matrix factorization},
+  journal = {Applied Mathematical Modelling},
+  volume = {70},
+  pages = {677-695},
+  year = {2019},
+  author = {Yu-Bang Zheng and Ting-Zhu Huang and Teng-Yu Ji and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma},
+  month={Jun.},
 }
 </pre>
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, "Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) <a href="javascript:toggleBibtex('IGARSS2019_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+
+<div id="bib_IGARSS2019_fibered" class="BibTeX noshow">
+<pre>
+@inproceedings{IGARSS2019_fibered,
+  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Jiang, Tai-Xiang and Huang, Jie},
+  booktitle={IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Hyperspectral Image Denoising Via Convex Low-Fibered-Rank Regularization}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={222-225},
+  doi={10.1109/IGARSS.2019.8900157}
+  }
+</pre>
+</div>
+
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
