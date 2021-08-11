@@ -20,7 +20,7 @@ permalink: /homepage/
    The box that contain BibTeX code
  *************************************/
 div.noshow { display: none; }
-div.bibtex {
+div.BibTeX {
   margin-right: 0%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
@@ -28,7 +28,7 @@ div.bibtex {
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
+div.BibTeX pre { font-size: 75%; overflow: auto;  width: 100%; }
 </style>
 
 <script>
