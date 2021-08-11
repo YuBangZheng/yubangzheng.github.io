@@ -7,6 +7,14 @@ permalink: /homepage/
 ---
 
 
+<style>
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
 /*************************************
    The box that contain BibTeX code
  *************************************/
