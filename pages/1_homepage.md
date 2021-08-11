@@ -36,7 +36,7 @@ function toggleBibtex(articleid) {
   var bib = document.getElementById('bib_'+articleid);
   if (bib) {
     if(bib.className.indexOf('BibTeX') != -1) {
-    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'BibTeX';
+    bib.className.indexOf('noshow') == -1?bib.className = 'BibTeX noshow':bib.className = 'BibTeX';
     }
   } else {
     return;
