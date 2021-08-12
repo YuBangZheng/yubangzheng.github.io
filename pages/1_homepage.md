@@ -101,7 +101,7 @@ function toggleBibtex(articleid) {
 
 <div id="bib_IS_Ntubal" class="BibTeX noshow">
 <pre>
-  @article{IS_Ntubal,
+@article{IS_Ntubal,
   author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Teng-Yu Ji and Tian-Hui Ma},
   journal = {Information Sciences},
   title = {Tensor {N}-tubal rank and its convex relaxation for low-rank tensor recovery},
@@ -119,7 +119,7 @@ function toggleBibtex(articleid) {
 <div id="bib_TGRS_fibered" class="BibTeX noshow">
 <pre>
 @article{TGRS_fibered,
-author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma and Teng-Yu Ji},
+  author ={Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Tai-Xiang Jiang and Tian-Hui Ma and Teng-Yu Ji},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   title={Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization},
   year={2020},
