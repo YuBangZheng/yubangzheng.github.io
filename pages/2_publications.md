@@ -27,7 +27,7 @@ permalink: /publications/
 div.noshow { display: none; }
 div.BibTeX {
   margin-right: 1%;
-  margin-left: 3.5%;
+  margin-left: 3%;
   margin-top: 1.2em;
   margin-bottom: 1.3em;
   border: 1px solid silver;
