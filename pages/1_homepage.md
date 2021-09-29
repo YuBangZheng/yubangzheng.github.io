@@ -213,7 +213,8 @@ function toggleBibtex(articleid) {
 ### Reproducible Research
 
 *  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
-*  ...
+
+
 ---
 
 ### Academic Activities
