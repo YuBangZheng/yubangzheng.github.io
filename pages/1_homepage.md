@@ -228,6 +228,7 @@ function toggleBibtex(articleid) {
 #### Reviewer
 
 *  IEEE Transactions on Neural Networks and Learning Systems
+*  IEEE Transactions on Network Science and Engineering
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
