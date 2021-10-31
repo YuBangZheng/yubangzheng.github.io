@@ -54,6 +54,8 @@ function toggleBibtex(articleid) {
 
 ### News
 
+* 2021.10.29: One paper "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
+
 * 2021.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
 * 2020.12.02: One paper "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" has been accepted by _**AAAI 2021**_.
@@ -166,7 +168,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Wen-Jie Zheng, Xi-Le Zhao, **Yu-Bang Zheng**, Zhi-Feng Pang, "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", _IEEE Geoscience and Remote Sensing Letters_**accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+* Wen-Jie Zheng, Xi-Le Zhao, **Yu-Bang Zheng**, Zhi-Feng Pang, "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", _IEEE Geoscience and Remote Sensing Letters_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
