@@ -166,7 +166,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Wen-Jie Zheng, Xi-Le Zhao, **Yu-Bang Zheng**, Zhi-Feng Pang, "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Remote Sensing Image Inpainting", _https://arxiv.org/abs/2109.05889_. [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+* Wen-Jie Zheng, Xi-Le Zhao, **Yu-Bang Zheng**, Zhi-Feng Pang, "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", _IEEE Geoscience and Remote Sensing Letters_**accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, "Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
