@@ -54,7 +54,7 @@ function toggleBibtex(articleid) {
 
 ### News
 
-* 2021.10.29: One paper "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting", has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
+* 2021.10.29: One paper "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting" has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
 
 * 2021.8.10: One paper "Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors" has been accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 
