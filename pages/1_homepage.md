@@ -242,6 +242,7 @@ function toggleBibtex(articleid) {
 *  [Prof. Qibin Zhao](https://qibinzhao.github.io)
 *  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
 *  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
+*  [Ms. Wen-Jie Zheng](https://wjz1355.github.io)
 *  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
 *  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 *  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
