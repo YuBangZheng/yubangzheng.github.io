@@ -54,7 +54,7 @@ function toggleBibtex(articleid) {
 
 ### News
 
-* 2021.10.29: One paper "Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\" has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
+* 2021.10.29: One paper \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\" has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
 
 * 2020.12.02: One paper "Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion" has been accepted by _**AAAI 2021**_.
 
