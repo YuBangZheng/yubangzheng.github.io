@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yu-Bang Zheng
+title: Yu-Bang Zheng (Yubang Zheng)
 comments: true
 permalink: /homepage/
 
