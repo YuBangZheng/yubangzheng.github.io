@@ -240,18 +240,17 @@ function toggleBibtex(articleid) {
 
 #### 合作者
 
-*  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-*  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
-*  [Prof. Qibin Zhao](https://qibinzhao.github.io)
-*  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
-*  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
-*  [Ms. Wen-Jie Zheng](https://wjz1355.github.io)
-*  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
-*  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
-*  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
-*  [Dr. Meng Ding](https://mengding56.github.io)
-*  [Dr. Jie Lin](https://jielin96.github.io/)
-*  [Dr. Wei He](https://www.geoinformatics2018.com/member/weihe/)
+*  [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+*  [赵熙乐教授](https://zhaoxile.github.io/)
+*  [赵启斌教授](https://qibinzhao.github.io)
+*  [蒋太副教授](https://taixiangjiang.github.io)
+*  [冀腾宇博士](https://sites.google.com/site/tengyuji90/)
+*  [郑文洁](https://wjz1355.github.io)
+*  [马天咴博士](https://dblp.org/pid/173/2719.html)
+*  [陈勇博士](https://chenyong1993.github.io/yongchen.github.io/)
+*  [王检利博士](https://wangjianli123.github.io/)
+*  [丁猛博士](https://mengding56.github.io)
+*  [林杰博士](https://jielin96.github.io/)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
