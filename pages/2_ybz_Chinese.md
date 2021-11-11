@@ -243,7 +243,7 @@ function toggleBibtex(articleid) {
 *  [黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 *  [赵熙乐教授](https://zhaoxile.github.io/)
 *  [赵启斌教授](https://qibinzhao.github.io)
-*  [蒋太副教授](https://taixiangjiang.github.io)
+*  [蒋太翔副教授](https://taixiangjiang.github.io)
 *  [冀腾宇博士](https://sites.google.com/site/tengyuji90/)
 *  [郑文洁](https://wjz1355.github.io)
 *  [马天咴博士](https://dblp.org/pid/173/2719.html)
