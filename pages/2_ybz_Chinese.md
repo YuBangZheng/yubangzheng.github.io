@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### 个人简介
  
-| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐教授](https://zhaoxile.github.io/)。 研究方向：张量建模与计算，张量学习，高维数据处理等。 <br> <br> **邮箱:** <zhengyubang@163.com>  <br><br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
+| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐教授](https://zhaoxile.github.io/)。 研究方向：张量建模与计算，张量学习，高维数据处理等。 <br> <br> **邮箱:** <zhengyubang@163.com>  <br><br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
 
 
 ### 学术论文
@@ -226,7 +226,7 @@ function toggleBibtex(articleid) {
 
 * 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
-* 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
+* 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **日本 横滨** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
 #### 审稿
 
