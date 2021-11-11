@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: 郑玉棒
 comments: true
-permalink: /publications/
+permalink: /ybz/
 
 ---
 
@@ -49,6 +49,16 @@ function toggleBibtex(articleid) {
   }
 }
 </script>
+
+
+
+
+### Biography
+ 
+| <br>**郑玉棒** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. He is a trainee (advised by [Prof. Qibin Zhao](https://qibinzhao.github.io)) with the Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan. His research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> <br> **Email:** <zhengyubang@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
+
+
+### Publications
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
@@ -154,7 +164,23 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Wen-Jie Zheng, Xi-Le Zhao, **Yu-Bang Zheng**, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+* Wen-Jie Zheng, Xi-Le Zhao, **Yu-Bang Zheng**, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, **accepted**, doi: 10.1109/LGRS.2021.3124804, 2021. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/NL-FCTN-wjz.pdf)
+
+<div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
+<pre>
+@article{GRSL2021_NLFCTN,
+  title = {Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting},
+  journal = {IEEE Geoscience and Remote Sensing Letters},
+  volume = { },
+  pages = { },
+  year = {2021},
+  author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Zhi-Feng Pang},
+  note = {doi: 10.1109/LGRS.2021.3124804},
+  month={},
+}
+</pre>
+</div>
+
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
@@ -173,4 +199,74 @@ function toggleBibtex(articleid) {
 * Jie Lin, Ting-Zhu Huang, Xi-Le Zhao, Tian-Hui Ma, Tai-Xiang Jiang, **Yu-Bang Zheng**, \"A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration\", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021.
 
 * Tian Lu, Xi-Le Zhao, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://yubangzheng.github.io/papers/TianLu.pdf)
+
+---
+
+### Experiences 
+
+* 03/2021-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
+
+* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+
+* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+
+* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
+
+---
+
+### Awards and Honors
+
+*  Academic Rookie, UESTC, 2021
+*  National Scholarship for Ph. D. student, UESTC, 2020
+*  Academic Scholarship, UESTC, 2020
+*  Special Postgraduate Scholarship of Science, UESTC, 2019
+*  Pacemaker to Merit Student, AUFE, 2015 and 2016
+
+---
+
+### Reproducible Research
+
+*  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
+
+
+---
+
+### Academic Activities
+
+#### Reports
+
+* 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
+
+* 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
+
+#### Reviewer
+
+*  IEEE Transactions on Neural Networks and Learning Systems
+*  IEEE Transactions on Network Science and Engineering
+*  Applied Mathematical Modeling
+*  Information Systems
+*  Machine Learning
+*  Signal Processing: Image Communication
+*  ACML 2021
+
+#### Co-authors
+
+*  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+*  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
+*  [Prof. Qibin Zhao](https://qibinzhao.github.io)
+*  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
+*  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
+*  [Ms. Wen-Jie Zheng](https://wjz1355.github.io)
+*  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
+*  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
+*  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
+*  [Dr. Meng Ding](https://mengding56.github.io)
+*  [Dr. Jie Lin](https://jielin96.github.io/)
+*  [Dr. Wei He](https://www.geoinformatics2018.com/member/weihe/)
+*  ... ...
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
+
+
 
