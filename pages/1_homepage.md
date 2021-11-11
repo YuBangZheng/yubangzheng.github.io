@@ -264,7 +264,6 @@ function toggleBibtex(articleid) {
 *  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
 *  [Dr. Meng Ding](https://mengding56.github.io)
 *  [Dr. Jie Lin](https://jielin96.github.io/)
-*  [Dr. Wei He](https://www.geoinformatics2018.com/member/weihe/)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
