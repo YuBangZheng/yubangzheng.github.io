@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### 个人简介
  
-| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐教授](https://zhaoxile.github.io/)。 研究方向：张量建模与计算，张量学习，高维数据处理等。 <br> <br> **邮箱:** <zhengyubang@163.com>  <br><br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
+| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)和[赵熙乐教授](https://zhaoxile.github.io/)。 研究方向：张量建模与计算，张量学习，高维数据处理等。 <br> <br> **邮箱:** <zhengyubang@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
 
 
 ### 学术论文
@@ -107,7 +107,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI 高被引论文</span>)
 
 <div id="bib_TGRS_fibered" class="BibTeX noshow">
 <pre>
