@@ -51,12 +51,12 @@ function toggleBibtex(articleid) {
 
 
 
-### Biography
+### 个人简介
  
-| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。研究领域：张量建模与计算，张量学习，高维数据处理等。 <br> <br> **Email:** <zhengyubang@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
+| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士生, 师从国家级教学名师[黄廷祝教授](http://www.math.uestc.edu.cn/info/1081/2041.htm)。研究领域：张量建模与计算，张量学习，高维数据处理等。 <br> <br> **邮箱:** <zhengyubang@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng4.jpg)&emsp; |
 
 
-### Publications
+### 学术论文
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
@@ -200,7 +200,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Experiences 
+### 教育背景 
 
 * 03/2021-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
 
@@ -212,7 +212,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Awards and Honors
+### 获奖情况
 
 *  Academic Rookie, UESTC, 2021
 *  National Scholarship for Ph. D. student, UESTC, 2020
@@ -222,22 +222,15 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Reproducible Research
+### 学术活动
 
-*  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
-
-
----
-
-### Academic Activities
-
-#### Reports
+#### 报告
 
 * 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
 * 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-#### Reviewer
+#### 审稿
 
 *  IEEE Transactions on Neural Networks and Learning Systems
 *  IEEE Transactions on Network Science and Engineering
@@ -247,7 +240,7 @@ function toggleBibtex(articleid) {
 *  Signal Processing: Image Communication
 *  ACML 2021
 
-#### Co-authors
+#### 合作者
 
 *  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 *  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
