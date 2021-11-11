@@ -214,11 +214,12 @@ function toggleBibtex(articleid) {
 
 ### 获奖情况
 
-*  Academic Rookie, UESTC, 2021
-*  National Scholarship for Ph. D. student, UESTC, 2020
-*  Academic Scholarship, UESTC, 2020
-*  Special Postgraduate Scholarship of Science, UESTC, 2019
-*  Pacemaker to Merit Student, AUFE, 2015 and 2016
+*  2021年度“学术新秀”, 电子科技大学, 2021
+*  博士研究生国家奖学金, 电子科技大学, 2020
+*  学业一等奖学金, 电子科技大学, 2020
+*  优秀研究生, 电子科技大学, 2020
+*  理科特别奖学金, 电子科技大学, 2019
+
 
 ---
 
