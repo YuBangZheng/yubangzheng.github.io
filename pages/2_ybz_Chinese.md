@@ -200,13 +200,13 @@ function toggleBibtex(articleid) {
 
 ### 教育背景 
 
-* 03/2021-Current: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
+* 03/2021-至今: 实习生, 日本理化学研究所; 计算机科学 (导师: [赵启斌 教授](https://qibinzhao.github.io/))
 
-* 09/2019-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-至今: 博士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2017-06/2019: 硕士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
+* 09/2013-06/2017: 本科, 安徽财经大学, 信息与计算科学
 
 ---
 
