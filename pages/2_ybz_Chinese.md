@@ -6,8 +6,6 @@ permalink: /ybz/
 
 ---
 
-* content
-{:toc}
 
 
 
