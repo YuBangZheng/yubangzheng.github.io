@@ -218,6 +218,7 @@ function toggleBibtex(articleid) {
 
 ### Awards and Honors
 
+*  First Prize of Outstanding Paper of the Second Sichuan-Chongqing Science and Technology Conference, Sichuan and Chongqing Associations for Science and Technology, 2021
 *  Academic Rookie, UESTC, 2021
 *  National Scholarship for Ph. D. student, UESTC, 2020
 *  Academic Scholarship, UESTC, 2020
