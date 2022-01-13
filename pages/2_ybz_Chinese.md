@@ -166,15 +166,13 @@ function toggleBibtex(articleid) {
 @article{GRSL2021_NLFCTN,
   title = {Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting},
   journal = {IEEE Geoscience and Remote Sensing Letters},
-  volume = { },
-  pages = { },
-  year = {2021},
+  volume = {19},
+  pages = {1-5},
+  year = {2022},
   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Zhi-Feng Pang},
-  note = {doi: 10.1109/LGRS.2021.3124804},
-  month={},
 }
 </pre>
-</div>
+</div>>
 
 
 * Yun-Yang Liu, Xi-Le Zhao, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, **accepted**, doi: 10.1109/TGRS.2020.3045169, 2021. [[PDF]](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
