@@ -173,11 +173,10 @@ function toggleBibtex(articleid) {
 @article{GRSL2021_NLFCTN,
   title = {Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting},
   journal = {IEEE Geoscience and Remote Sensing Letters},
-  volume = { },
-  pages = { },
-  year = {2021},
+  volume = {19},
+  pages = {1-5},
+  year = {2022},
   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Zhi-Feng Pang},
-  note = {doi: 10.1109/LGRS.2021.3124804},
   month={},
 }
 </pre>
