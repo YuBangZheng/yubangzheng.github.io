@@ -243,6 +243,7 @@ function toggleBibtex(articleid) {
 
 #### Reviewer
 
+*  IEEE Transactions on Pattern Analysis and Machine Intelligence
 *  IEEE Transactions on Neural Networks and Learning Systems
 *  IEEE Transactions on Network Science and Engineering
 *  Applied Mathematical Modeling
