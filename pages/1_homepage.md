@@ -243,9 +243,9 @@ function toggleBibtex(articleid) {
 
 #### Reviewer
 
-*  IEEE Transactions on Pattern Analysis and Machine Intelligence
-*  IEEE Transactions on Neural Networks and Learning Systems
-*  IEEE Transactions on Network Science and Engineering
+*  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+*  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+*  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
