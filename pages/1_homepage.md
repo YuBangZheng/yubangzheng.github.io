@@ -62,7 +62,7 @@ function toggleBibtex(articleid) {
 
 ### Publications
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/AAAI2021_FCTN_Decomposition_ybz.pdf) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
 <div id="bib_zhengFCTN2021" class="BibTeX noshow">
 <pre>
@@ -79,7 +79,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. <a href="javascript:toggleBibtex('TGRS_LRTFDFR')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. <a href="javascript:toggleBibtex('TGRS_LRTFDFR')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9084248) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
 <div id="bib_TGRS_LRTFDFR" class="BibTeX noshow">
 <pre>
@@ -97,7 +97,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. <a href="javascript:toggleBibtex('IS_Ntubal')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[PDF2]](https://yubangzheng.github.io/papers/IS-N-tubal-rank2.pdf) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. <a href="javascript:toggleBibtex('IS_Ntubal')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
 
 <div id="bib_IS_Ntubal" class="BibTeX noshow">
 <pre>
@@ -114,7 +114,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
 
 <div id="bib_TGRS_fibered" class="BibTeX noshow">
 <pre>
@@ -149,7 +149,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) <a href="javascript:toggleBibtex('IGARSS2019_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) <a href="javascript:toggleBibtex('IGARSS2019_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8900157) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
 <div id="bib_IGARSS2019_fibered" class="BibTeX noshow">
 <pre>
