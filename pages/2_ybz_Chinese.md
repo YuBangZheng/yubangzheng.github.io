@@ -91,7 +91,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. <a href="javascript:toggleBibtex('IS_Ntubal')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/IS-N-tubal-rank.pdf) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. <a href="javascript:toggleBibtex('IS_Ntubal')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025520303923) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
 
 <div id="bib_IS_Ntubal" class="BibTeX noshow">
 <pre>
@@ -126,7 +126,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. <a href="javascript:toggleBibtex('AMM_SMFLRTC')" class="textlink">[BibTeX]</a> [[PDF]](https://yubangzheng.github.io/papers/AMM_SMFLRTC_zheng.pdf) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
+* **Yu-Bang Zheng**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. <a href="javascript:toggleBibtex('AMM_SMFLRTC')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/pii/S0307904X19300782.pdf) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
 
 <div id="bib_AMM_SMFLRTC" class="BibTeX noshow">
 <pre>
