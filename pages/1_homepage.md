@@ -53,6 +53,7 @@ function toggleBibtex(articleid) {
 | <br>**Yu-Bang Zheng (郑玉棒)** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. He is a trainee (advised by [Prof. Qibin Zhao](https://qibinzhao.github.io)) with the Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan. His research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> <br> **Email:** <zhengyubang@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
 
 ### News
+* 2022.3.15: One paper \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\" has been accepted by _**Journal of Scientific Computing**_.
 
 * 2021.10.29: One paper \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\" has been accepted by _**IEEE Geoscience and Remote Sensing Letters**_.
 
@@ -61,6 +62,23 @@ function toggleBibtex(articleid) {
 ---
 
 ### Publications
+
+* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", Journal of Scientific Computing, Early access, 2022. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> 
+
+<div id="bib_zhengFCTN2021" class="BibTeX noshow">
+<pre>
+@inproceedings{zhengFCTN2021,
+  title={Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion}, 
+  author={Zheng, Yu-Bang and Huang, Ting-Zhu and Zhao, Xi-Le and Zhao, Qibin and Jiang, Tai-Xiang}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={12},
+  pages={11071-11078},
+  year={2021},  
+}
+</pre>
+</div>
+
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
