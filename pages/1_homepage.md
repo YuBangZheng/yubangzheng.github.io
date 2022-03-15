@@ -63,7 +63,7 @@ function toggleBibtex(articleid) {
 
 ### Publications
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", Journal of Scientific Computing, Early access, 2022. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> 
+* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", Journal of Scientific Computing, Early Access, 2022. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> 
 
 <div id="bib_zhengFCTN2021" class="BibTeX noshow">
 <pre>
