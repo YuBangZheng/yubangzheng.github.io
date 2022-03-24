@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### Biography
  
-| <br><front size = 15>**Yu-Bang Zheng (郑玉棒)** <br>
+| <br><front size = 25>**Yu-Bang Zheng (郑玉棒)** <br>
 I am currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. I am also a trainee (advised by [Prof. Qibin Zhao](https://qibinzhao.github.io)) with the Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan. <br> 
 **Research interests:** tensor modeling and computing, tensor learning, and high-dimensional data processing. <br> 
 **Email:** <zhengyubang@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br> **CV:** [Yu-Bang Zheng](https://yubangzheng.github.io/images/CV_yubangzheng.pdf) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng3.jpg)&emsp; |
