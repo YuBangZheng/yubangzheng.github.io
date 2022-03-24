@@ -46,7 +46,9 @@ function toggleBibtex(articleid) {
 </script>
 
 
+<center>
 ## Yu-Bang Zheng (郑玉棒)
+</center>
 ---
 
 ### About me
