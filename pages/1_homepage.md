@@ -46,7 +46,7 @@ function toggleBibtex(articleid) {
 </script>
 
 
-<center> <font size=10>Yu-Bang Zheng (郑玉棒)</font> </center>
+##<center> <font size=6>Yu-Bang Zheng (郑玉棒)</font> </center>##
 ---
 
 ### About me
