@@ -55,7 +55,23 @@ function toggleBibtex(articleid) {
 
 ### 学术论文
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, **accepted**, 2022.
+* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, no. 8, pp. 1-35, 2022. <a href="javascript:toggleBibtex('zhengFCTNFR2022')" class="textlink">[BibTeX]</a> [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) 
+
+<div id="bib_zhengFCTNFR2022" class="BibTeX noshow">
+<pre>
+@article{zhengFCTNFR2022,
+  author = {Yu-Bang Zheng and Ting-Zhu Huang and Xi-Le Zhao and Qibin Zhao}, 
+  journal = {Journal of Scientific Computing},  
+  title = {Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors},
+  year={2022},
+  volume={92},
+  number={8},
+  pages={1-35},
+  month={May},
+  url={https://doi.org/10.1007/s10915-022-01841-8},
+}
+</pre>
+</div>
 
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. <a href="javascript:toggleBibtex('zhengFCTN2021')" class="textlink">[BibTeX]</a> [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
