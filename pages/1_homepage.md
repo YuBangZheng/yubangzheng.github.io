@@ -179,7 +179,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 8025105. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
+* Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
 
 <div id="bib_GRSL2021_NLFCTN" class="BibTeX noshow">
 <pre>
@@ -196,9 +196,9 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-17, 2022, Art no. 5500717. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
+* Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
 
-* Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-16, 2022, Art no. 5513916.
+* Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5513916, pp. 1-16, 2022.
 
 * Xiao-Tong Li, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, \"Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization\", _Neurocomputing_, vol. 367, pp. 1-12, 2019.
 
