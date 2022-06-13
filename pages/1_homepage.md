@@ -236,7 +236,6 @@ function toggleBibtex(articleid) {
 *  National Scholarship for Ph. D. student (博士研究生国家奖学金), UESTC, 2020
 *  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2020
 *  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
-*  Pacemaker to Merit Student (三好学生标兵), AUFE, 2015 and 2016
 
 ---
 
