@@ -267,12 +267,15 @@ function toggleBibtex(articleid) {
 *  [赵启斌教授](https://qibinzhao.github.io)
 *  [蒋太翔教授](https://taixiangjiang.github.io)
 *  [冀腾宇博士](https://sites.google.com/site/tengyuji90/)
-*  [郑文洁](https://wjz1355.github.io)
 *  [马天咴博士](https://dblp.org/pid/173/2719.html)
 *  [陈勇博士](https://chenyong1993.github.io/yongchen.github.io/)
-*  [王检利](https://wangjianli123.github.io/)
 *  [丁猛博士](https://mengding56.github.io)
+*  [王检利](https://wangjianli123.github.io/)
 *  [林杰](https://jielin96.github.io/)
+*  张浩
+*  刘运阳
+*  吴鹏玲
+*  [郑文洁](https://wjz1355.github.io)
 *  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
