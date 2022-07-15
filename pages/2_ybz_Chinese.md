@@ -250,6 +250,7 @@ function toggleBibtex(articleid) {
 #### 审稿期刊和会议
 
 *  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+*  IEEE Transactions on Image Processing
 *  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 *  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 *  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
