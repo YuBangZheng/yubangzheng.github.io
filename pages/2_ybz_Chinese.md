@@ -254,9 +254,11 @@ function toggleBibtex(articleid) {
 *  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 *  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 *  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
+*  Mathematical Reviews
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
+*  Statistical Papers
 *  Signal Processing: Image Communication
 *  ACML 2021, 2022
 *  ... ...
