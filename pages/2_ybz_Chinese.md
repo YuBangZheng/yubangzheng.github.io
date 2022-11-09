@@ -229,6 +229,7 @@ function toggleBibtex(articleid) {
 ### 获奖情况
 
 *  第二届川渝科技学术大会优秀论文一等奖 (<span style="color:red">排名第一</span>), 四川省科学技术协会/重庆市科学技术协会, 2021
+*  第二届中国图象图形学报研究生学术论坛二等奖, 中国图象图形学报, 2022
 *  五粮液创新奖学金 (2万元), 电子科技大学, 2021
 *  2021年度\"学术新秀\", 电子科技大学, 2021
 *  博士研究生国家奖学金, 电子科技大学, 2020
@@ -255,11 +256,12 @@ function toggleBibtex(articleid) {
 *  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 *  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 *  Mathematical Reviews
+*  Signal Processing
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
 *  Statistical Papers
-*  Signal Processing: Image Communication
+*  Neural Processing Letters
 *  ACML 2021, 2022
 *  ... ...
 
