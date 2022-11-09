@@ -231,6 +231,8 @@ function toggleBibtex(articleid) {
 ### Awards and Honors
 
 *  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
+*  Second Prize of the Second Postgraduate Academic Forum of Journal of Image and Graphics (<span style="color:red">第二届中国图象图形学报研究生学术论坛二等奖
+</span>), Journal of Image and Graphics, 2022
 *  Wuliangye Innovation Scholarship (五粮液创新奖学金, 2万元), UESTC, 2021
 *  Academic Rookie (学术新秀), UESTC, 2021
 *  National Scholarship for Ph. D. student (博士研究生国家奖学金), UESTC, 2020
@@ -262,11 +264,12 @@ function toggleBibtex(articleid) {
 *  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 *  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 *  Mathematical Reviews
+*  Signal Processing
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
 *  Statistical Papers
-*  Signal Processing: Image Communication
+*  Neural Processing Letters
 *  ACML 2021, 2022
 *  ... ...
 
