@@ -265,6 +265,7 @@ function toggleBibtex(articleid) {
 *  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 *  Mathematical Reviews
 *  Signal Processing
+*  IEEE Signal Processing Letters
 *  Applied Mathematical Modeling
 *  Information Systems
 *  Machine Learning
