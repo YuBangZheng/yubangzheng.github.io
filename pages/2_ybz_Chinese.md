@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 ### 个人简介
  
-| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师[黄廷祝教授]。主要研究兴趣为张量建模与计算、张量学习和高维数据处理等，在国际SCI期刊和会议上发表学术论文10余篇 (入选ESI高被引论文2篇)，包括IEEE Trans. Geosci. Remote Sens., J. Sci. Comput., Inf. Sci., AAAI等权威期刊和会议。曾获2021川渝科技学术大会优秀论文一等奖、第二届中国图象图形学报研究生学术论坛二等奖、电子科技大学2021年度“学术新秀”、2020年度博士研究生国家奖学金、学业一等奖学金、理科特别奖学金、优秀研究生等荣誉和奖励。主研参与国家自然科学基金面上项目2项、中央军委科学技术委员会国防科技创新特区项目1项、四川省应用基础研究重点项目1项。<br> <br> **邮箱:** <zhengyubang@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
+| <br>**郑玉棒**, [电子科技大学](https://www.uestc.edu.cn/)数学科学学院2019级博士研究生, 师从国家级教学名师黄廷祝教授。主要研究兴趣为张量建模与计算、张量学习和高维数据处理等，在国际SCI期刊和会议上发表学术论文10余篇 (入选ESI高被引论文2篇)，包括IEEE Trans. Geosci. Remote Sens., J. Sci. Comput., Inf. Sci., AAAI等权威期刊和会议。曾获2021川渝科技学术大会优秀论文一等奖、第二届中国图象图形学报研究生学术论坛二等奖、电子科技大学2021年度“学术新秀”、2020年度博士研究生国家奖学金、学业一等奖学金、理科特别奖学金、优秀研究生等荣誉和奖励。主研参与国家自然科学基金面上项目2项、中央军委科学技术委员会国防科技创新特区项目1项、四川省应用基础研究重点项目1项。<br> <br> **邮箱:** <zhengyubang@163.com>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
 
 
 ### 学术论文
