@@ -49,17 +49,17 @@ function toggleBibtex(articleid) {
 
 ### Yu-Bang Zheng (郑玉棒)
  
-| <br>**About me:** I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang (黄廷祝)](https://www.math.uestc.edu.cn/info/1183/5808.htm) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing.  <br> <br> **Email:** <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
+| <br>**About me:** I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing.  <br> <br> **Email:** <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
 
 ### Experiences 
 
 * 03/2021-12/2022: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
 
-* 09/2019-12/2022: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-12/2022: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science (Supervisor: Prof. Chunzhong Li)
+* 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
 ---
 
