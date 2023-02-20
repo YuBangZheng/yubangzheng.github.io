@@ -49,7 +49,7 @@ function toggleBibtex(articleid) {
 
 ### Yu-Bang Zheng (郑玉棒)
  
-| <br>**About me:** I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Chengdu, China. My research interests include tensor modeling and computing, sparse and low-rank optimization, and high-dimensional data processing. <br> <br> **Email:** <zhengyubang@163.com>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
+| <br>**About me:** I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Chengdu, China. My research interests include tensor modeling and computing, sparse and low-rank optimization, and high-dimensional data processing. <br> <br> **Email:** <zhengyubang@163.com>  <br> <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br><br>| &emsp;![image](https://yubangzheng.github.io/images/yubangzheng.jpg)&emsp; |
 
 ### Experiences 
 
