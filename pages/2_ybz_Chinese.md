@@ -199,6 +199,8 @@ function toggleBibtex(articleid) {
 
 * Wei-Hao Wu, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial-Spectral Prior\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5545514, pp. 1-14, 2022.
 
+* Hao Zhang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5502313, pp. 1-13, 2023.
+
 * Peng-Ling Wu, Xi-Le Zhao\*, Meng Ding, **Yu-Bang Zheng**, Lu-Bin Cui, Ting-Zhu Huang, \"Tensor Ring Decomposition-Based Model with Interpretable Gradient Factors Regularization for Tensor Completion\", _Knowledge-Based Systems_, vol. 259, pp. 110094, 2023.
 
 * Xiao-Tong Li, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, \"Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization\", _Neurocomputing_, vol. 367, pp. 1-12, 2019.
@@ -220,9 +222,9 @@ function toggleBibtex(articleid) {
 
 ### 教育背景 
 
-* 03/2021-至今: 实习生, 日本理化学研究所; 计算机科学 (导师: [赵启斌 教授](https://qibinzhao.github.io/))
+* 03/2021-12/2022: 实习生, 日本理化学研究所; 计算机科学 (导师: [赵启斌 教授](https://qibinzhao.github.io/))
 
-* 09/2019-至今: 博士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-12/2022: 博士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
 * 09/2017-06/2019: 硕士研究生, 电子科技大学, 数学 (导师: [黄廷祝 教授](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
