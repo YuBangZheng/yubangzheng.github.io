@@ -63,9 +63,9 @@ function toggleBibtex(articleid) {
 
 ---
 
-### Toolbox
+%### Toolbox
 
-&emsp;&emsp;&emsp;![image](https://yubangzheng.github.io/images/tntoolbox.png)
+%&emsp;&emsp;&emsp;![image](https://yubangzheng.github.io/images/tntoolbox.png)
 
 ### Publications
 
