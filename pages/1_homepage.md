@@ -63,6 +63,21 @@ function toggleBibtex(articleid) {
 
 ---
 
+
+<div id="container">
+<div id ="mainbody">
+<a  name="projects">&nbsp; </a>	
+<h2>Projects:</h2>
+<table border=0 cellpadding=0 width=100% cellspacing="10" style="line-height:18pt;  border-spacing: 60 6px;"> 	
+	
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="img/tennettoolbox.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="img/tnntoolbox.png" width="250"></a>
+</p>	
+</div>
+</div>	
+
+
 ### Publications
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. <a href="javascript:toggleBibtex('zhengFCTNFR2022')" class="textlink">[BibTeX]</a> [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip)
