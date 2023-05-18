@@ -51,7 +51,7 @@ function toggleBibtex(articleid) {
  
 | <br>**About me:** I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing.  <br> <br> **Email:** <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)</font>  <br><br>| &emsp; <img src="https://yubangzheng.github.io/images/yubangzhenghome.jpg" width="400">&emsp; |
 
-<font size=10>About me</font>
+<font size=10px>About me</font>
 
 ### **Experiences**
 
