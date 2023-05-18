@@ -62,7 +62,7 @@ function toggleBibtex(articleid) {
 * 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
 ---
-### Projects
+### Projects (Click logos)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
