@@ -53,7 +53,7 @@ function toggleBibtex(articleid) {
 
 
 
-### Experiences 
+### **Experiences**
 
 * 03/2021-12/2022: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
 
