@@ -7,6 +7,19 @@ permalink: /homepage/
 ---
 
 
+
+
+
+<style>
+h1 { font: 26pt !important; }
+h2 { font: 22pt !important; }
+h3 { font: 16pt !important; }
+p { font: 14pt !important; }
+</style>
+
+
+
+
 <style>
 .biblist { }
 
