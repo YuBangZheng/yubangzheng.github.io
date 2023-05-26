@@ -294,7 +294,7 @@ function toggleBibtex(articleid) {
 *  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
 *  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 *  [Dr. Meng Ding](https://mengding56.github.io)
-*  [Ms. Jian-Li Wang](https://wangjianli123.github.io/)
+*  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
 *  [Mr. Jie Lin](https://jielin96.github.io/)
 *  Mr. Hao Zhang
 *  Ms. Yun-Yang Liu
