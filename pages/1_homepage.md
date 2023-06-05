@@ -243,7 +243,7 @@ function toggleBibtex(articleid) {
 
 * Jie Lin, Ting-Zhu Huang\*, Xi-Le Zhao, Tian-Hui Ma, Tai-Xiang Jiang, **Yu-Bang Zheng**, \"A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration\", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021.
 
-* Peng-Ling Wu, Meng Ding\*, Yu-Bang Zheng, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, 2023.
+* Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, 2023.
 
 * Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
 
