@@ -73,7 +73,7 @@ function toggleBibtex(articleid) {
 ---
 ### **Preprint**
 
-* **Yu-Bang Zheng**, Xi-Le Zhao, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
+* **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
 \", _arXiv:2305.14912_, 2023.
 
 ### **Publications**
