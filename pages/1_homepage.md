@@ -221,6 +221,8 @@ function toggleBibtex(articleid) {
 
 * Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP) (<span style="color:red">ESI Highly Cited Paper</span>)
 
+* Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023.
+
 * Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5513916, pp. 1-16, 2022.
 
 * Wei-Hao Wu, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial-Spectral Prior\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5545514, pp. 1-14, 2022.
