@@ -53,7 +53,20 @@ function toggleBibtex(articleid) {
 | <br>**郑玉棒**, 西南交通大学信息科学与技术学院讲师, 博士毕业于电子科技大学数学科学学院, 师从国家级教学名师黄廷祝教授。主要研究兴趣为张量建模与计算、张量学习和高维数据处理等，在国际SCI期刊和会议上发表学术论文20余篇 (入选ESI高被引论文2篇)，包括IEEE Trans. Geosci. Remote Sens., J. Sci. Comput., Inf. Sci., AAAI等权威期刊和会议。曾获2021川渝科技学术大会优秀论文一等奖、第二届中国图象图形学报研究生学术论坛报告二等奖、电子科技大学2021年度“学术新秀”、博士研究生国家奖学金等荣誉和奖励。主研参与国家自然科学基金面上项目2项、四川省应用基础研究重点项目1项。<br> <br> **邮箱:** <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn>  <br> **链接:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/) <br><br>| &emsp;<img src="https://yubangzheng.github.io/images/yubangzhengshamob.jpg" width="1500"> &emsp; |
 
 
+---
+### 软件包
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
+
+---
+### 预印本
+
+* **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
+\", _arXiv:2305.14912_, 2023.
+
 ### 学术论文
+
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. <a href="javascript:toggleBibtex('zhengFCTNFR2022')" class="textlink">[BibTeX]</a> [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip)
 
@@ -124,7 +137,7 @@ function toggleBibtex(articleid) {
 </div>
 
 
-* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI高被引论文</span>)
+* **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. <a href="javascript:toggleBibtex('TGRS_fibered')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
 
 <div id="bib_TGRS_fibered" class="BibTeX noshow">
 <pre>
@@ -175,6 +188,7 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
+* Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10125571/)
 
 * Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
 
@@ -192,11 +206,11 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
-
 * Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[Code]](https://github.com/zhaoxile/SSTC_CR)
 
+* Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-* Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP) (<span style="color:red">ESI高被引论文</span>)
+* Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023.
 
 * Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5513916, pp. 1-16, 2022.
 
@@ -218,8 +232,9 @@ function toggleBibtex(articleid) {
 
 * Jie Lin, Ting-Zhu Huang\*, Xi-Le Zhao, Tian-Hui Ma, Tai-Xiang Jiang, **Yu-Bang Zheng**, \"A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration\", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021.
 
-* Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
+* Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, 2023.
 
+* Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
 
 ---
 
