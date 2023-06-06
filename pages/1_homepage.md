@@ -199,7 +199,20 @@ function toggleBibtex(articleid) {
 </pre>
 </div>
 
-* Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10125571/)
+* Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. <a href="javascript:toggleBibtex('TGRS2023_TRGFid')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/10125571/)
+
+<div id="bib_TGRS2023_TRGFid" class="BibTeX noshow">
+<pre>
+@ARTICLE{TGRS2023_TRGFid,
+  author={Li, Li-Yuan and Huang, Ting-Zhu and Zheng, Yu-Bang and Zheng, Wen-Jie and Lin, Jie and Wu, Guo-Cheng and Zhao, Xi-Le},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity}, 
+  year={2023},
+  volume={61},
+  pages={1-14},
+  }
+</pre>
+</div>
 
 * Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. <a href="javascript:toggleBibtex('GRSL2021_NLFCTN')" class="textlink">[BibTeX]</a> [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
 
@@ -212,12 +225,24 @@ function toggleBibtex(articleid) {
   pages = {1-5},
   year = {2022},
   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Zhi-Feng Pang},
-  month={},
 }
 </pre>
 </div>
 
-* Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[Code]](https://github.com/zhaoxile/SSTC_CR)
+* Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. <a href="javascript:toggleBibtex('ISPRS2023_SSTCR')" class="textlink">[BibTeX]</a> [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+
+<div id="bib_ISPRS2023_SSTCR" class="BibTeX noshow">
+<pre>
+@article{ISPRS2023_SSTCR,
+   author = {Wen-Jie Zheng and Xi-Le Zhao and Yu-Bang Zheng and Jie Lin and Lina Zhuang and Ting-Zhu Huang},
+   title = {Spatial-spectral-temporal connective tensor network decomposition for thick cloud removal},
+   journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+   volume = {199},
+   pages = {182-194},
+   year = {2023},
+   }
+</pre>
+</div>
 
 * Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP) (<span style="color:red">ESI Highly Cited Paper</span>)
 
