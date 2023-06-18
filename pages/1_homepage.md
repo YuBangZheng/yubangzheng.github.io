@@ -302,22 +302,24 @@ function toggleBibtex(articleid) {
 
 * 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-#### Reviewer
+#### Editor and Reviewer
 
-*  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-*  IEEE Transactions on Image Processing (IEEE TIP)
-*  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-*  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
-*  IEEE Transactions on Network Science and Engineering (IEEE TNSE)
-*  Mathematical Reviews
-*  Signal Processing
-*  IEEE Signal Processing Letters
-*  Applied Mathematical Modeling
-*  Information Systems
-*  Machine Learning
-*  Statistical Papers
-*  Neural Processing Letters
-*  ACML 2021, 2022
+*  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
+*  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
+*  IEEE Transactions on Image Processing (IEEE TIP), _Reviewer_
+*  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
+*  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
+*  IEEE Transactions on Network Science and Engineering (IEEE TNSE), _Reviewer_
+*  Mathematical Reviews, _Reviewer_
+*  Signal Processing, _Reviewer_
+*  IEEE Signal Processing Letters, _Reviewer_
+*  IEEE Geoscience and Remote Sensing Letters, _Reviewer_
+*  Applied Mathematical Modeling, _Reviewer_
+*  Information Systems, _Reviewer_
+*  Machine Learning, _Reviewer_
+*  Statistical Papers, _Reviewer_
+*  Neural Processing Letters, _Reviewer_
+*  ACML 2021, 2022, _Reviewer_
 *  ... ...
 
 #### Co-authors
