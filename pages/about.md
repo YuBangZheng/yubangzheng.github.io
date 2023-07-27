@@ -62,7 +62,7 @@ I am currently working with the [School of Information Science and Technology](h
 
 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
 
-# 🔥 News
+# 🔔 News
 
 * *2023.05*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing**. 
 * *2023.04*: &nbsp;🎉 One paper is accepted by **ISPRS Journal of Photogrammetry and Remote Sensing**. 
@@ -75,7 +75,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 * *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
 
-# 📝 Projects
+# 🔍 Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
