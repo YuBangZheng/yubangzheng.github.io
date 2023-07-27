@@ -282,7 +282,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 * Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
 
 
-# 🎖 Awards and Honors
+# 🏆 Awards and Honors
 
 *  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
 *  Second Prize of the Second Postgraduate Academic Forum of Journal of Image and Graphics (<span style="color:red">第二届中国图象图形学报研究生学术论坛二等奖
