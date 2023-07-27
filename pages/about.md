@@ -21,7 +21,7 @@ I am currently working with the [School of Information Science and Technology](h
 
 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
 
-# News
+# 🔔 News
 
 - *2023.05*: &nbsp; One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing**.  
 - *2023.04*: &nbsp; One paper is accepted by **ISPRS Journal of Photogrammetry and Remote Sensing**. 
@@ -33,7 +33,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 - *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 - *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
-# Projects
+# 🛠️ Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
@@ -99,7 +99,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 - Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
 
 
-# Awards and Honors
+# 🏆 Awards and Honors
 
 -  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
 -  Second Prize of the Second Postgraduate Academic Forum of Journal of Image and Graphics (<span style="color:red">第二届中国图象图形学报研究生学术论坛二等奖
