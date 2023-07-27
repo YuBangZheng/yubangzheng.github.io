@@ -1,13 +1,12 @@
 ---
-layout: page
-title: Yu-Bang Zheng (Yubang Zheng)
-comments: true
-permalink: /homepage/
-
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
-
-
 
 
 <style>
@@ -50,34 +49,40 @@ function toggleBibtex(articleid) {
 
 
 
-### **Yu-Bang Zheng (郑玉棒)**
- 
-| <br>**About me:** I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing.  <br> <br> **Email:** <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn>  <br> **Follow me:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Yu_Bang_Zheng)  &emsp; [GitHub](https://github.com/YuBangZheng/)  <br><br>| &emsp; <img src="https://yubangzheng.github.io/images/yubangzhengshamob.jpg" width="1200"> &emsp; |
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-### **Experiences**
+<span class='anchor' id='about-me'></span>
+
+I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. 
+
+E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
+
+# 🛩 Experiences
 
 * 03/2021-12/2022: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
-
 * 09/2019-12/2022: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
-
 * 09/2017-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
-
 * 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
----
-### **Projects (Click logos)**
+
+# 📄 Projects (Click logos)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
----
-### **Preprint**
+
+# 📄 Preprints 
 
 * **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
 \", _arXiv:2305.14912_, 2023. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf)
 
-### **Publications**
-
+# 📄 Publications 
+<b>Note</b>: \* indicates the corresponding author.
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. <a href="javascript:toggleBibtex('zhengFCTNFR2022')" class="textlink">[BibTeX]</a> [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip)
 
@@ -272,9 +277,8 @@ function toggleBibtex(articleid) {
 
 * Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
 
----
 
-### **Awards and Honors**
+# 🎖 Awards and Honors
 
 *  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
 *  Second Prize of the Second Postgraduate Academic Forum of Journal of Image and Graphics (<span style="color:red">第二届中国图象图形学报研究生学术论坛二等奖
@@ -285,24 +289,20 @@ function toggleBibtex(articleid) {
 *  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2020
 *  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
 
----
-
-### **Reproducible Research**
+# 🗺 Reproducible Research
 
 *  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
 
----
+# 🗺 Academic Activities
 
-### **Academic Activities**
-
-#### Reports
+## Reports
 
 * 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
 * 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-#### Editor and Reviewer
+## Editor and Reviewer
 
 *  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
 *  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
@@ -322,7 +322,7 @@ function toggleBibtex(articleid) {
 *  ACML 2021, 2022, _Reviewer_
 *  ... ...
 
-#### Co-authors
+## Co-authors
 
 *  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 *  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
