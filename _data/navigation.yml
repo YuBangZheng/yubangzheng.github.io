@@ -10,10 +10,10 @@ main:
     url: "/#-educations"
 
   - title: "Projects"
-    url: "/#-projects 
+    url: "/#-projects" 
 
   - title: "Preprints"
-    url: "/#-preprints 
+    url: "/#-preprints" 
 
   - title: "Publications"
     url: "/#-publications"
