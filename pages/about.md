@@ -62,7 +62,7 @@ I am currently working with the [School of Information Science and Technology](h
 
 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
 
-# 🛩 Experiences
+# 📖 Educations
 
 * 03/2021-12/2022: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
 * 09/2019-12/2022: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
@@ -70,18 +70,18 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 * 09/2013-06/2017: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
 
-# 📄 Projects (Click logos)**
+# 📝 Projects (Click logos)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Tensor-Network-Toolbox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
 
-# 📄 Preprints 
+# 📝 Preprints 
 
 * **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
 \", _arXiv:2305.14912_, 2023. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf)
 
-# 📄 Publications 
+# 📝 Publications 
 <b>Note</b>: \* indicates the corresponding author.
 
 * **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. <a href="javascript:toggleBibtex('zhengFCTNFR2022')" class="textlink">[BibTeX]</a> [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip)
@@ -289,7 +289,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 *  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2020
 *  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
 
-# 🗺 Reproducible Research
+# 💻 Reproducible Research
 
 *  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
