@@ -62,6 +62,10 @@ I am currently working with the [School of Information Science and Technology](h
 
 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
 
+# 🔥 News
+* *2023.05*: &nbsp;🎉 One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing**. 
+* *2023.04*: &nbsp;🎉 One paper is accepted by **ISPRS Journal of Photogrammetry and Remote Sensing**. 
+
 # 📖 Educations
 
 * 03/2021-12/2022: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
