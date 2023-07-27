@@ -1,36 +1,163 @@
-# Site settings
-title: Homepage of Yu-Bang Zheng (郑玉棒)
-email: zhengyubang@163.com
-description: Yu-Bang Zheng
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username: YuBangZheng
-permalink: /:year/:month/:day/:title/
-# this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/blob/master/
-# this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/YuBangZheng/yubangzheng.github.io/
-#########################################
-# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-duoshuo_shortname: ybzheng
-duoshuo_url: "https://github.com/YuBangZheng/"
-# disqus.com commenting system. please note that it is exclusive with duoshuo.com
-#disqus_shortname: pfzuo
-#disqus_url: "http://pfzuo.github.io"
-#########################################
+# Site Settings
+title                    : "Yu-Bang Zheng | SWJTU"
+description              : "Assistant Professor in SWJTU."
+repository               : "yubangzheng/yubangzheng.github.io"
+google_scholar_stats_use_cdn : true
 
-# Build settings
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+
+# Site Author
+author:
+  name             : "Yu-Bang Zheng (郑玉棒)"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "School of Information Science and Technology, Southwest Jiaotong University"
+  location         : "Chengdu, China"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
+  email            : "zhengyubang@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Yu-Bang-Zheng-2"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "yubangzheng"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/232/2320.html"
+  orcid            : # e.g., "https://orcid.org/0000-0003-1756-6716"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# highlight
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
 
-port: 4001
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
