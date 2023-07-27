@@ -115,7 +115,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
 
-# Academic Activities
+# ✈️ Academic Activities
 
 ## Reports
 
