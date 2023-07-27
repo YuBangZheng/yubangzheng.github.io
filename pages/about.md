@@ -26,7 +26,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 - *2023.05*: &nbsp; One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing**.  
 - *2023.04*: &nbsp; One paper is accepted by **ISPRS Journal of Photogrammetry and Remote Sensing**. 
 
-# Educations
+# 📖 Educations
 
 - *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); visiting student in Computer Science (Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io))
 - *2019.09-2022.12*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
@@ -39,7 +39,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhaoxile/Trans-TNN-Toolbox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
 
-# Preprints 
+# 📝 Preprints 
 
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
 \", _arXiv:2305.14912_, 2023. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf)
