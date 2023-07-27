@@ -3,8 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Experiences"
+    url: "/#-experiences"
+
+  - title: "Projects"
+    url: "/#-projects 
+
+  - title: "Preprints"
+    url: "/#-preprints 
 
   - title: "Publications"
     url: "/#-publications"
@@ -12,8 +18,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Awards and Honors"
+    url: "/#-awards-and-honors"
 
   - title: "Academic Activities"
     url: "/#-academic-activities"
