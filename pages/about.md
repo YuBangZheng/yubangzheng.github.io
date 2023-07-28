@@ -114,13 +114,13 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 
 # 🗺 Academic Activities
 
-## Reports
+## 🎤 Reports
 
 - 02/2021: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
 
 - 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-## Editor and Reviewer
+## 🏷 Editor and Reviewer
 
 -  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
 -  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
@@ -140,7 +140,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 -  ACML 2021, 2022, _Reviewer_
 -  ... ...
 
-## Co-authors
+## 🤝 Co-authors
 
 -  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 -  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
