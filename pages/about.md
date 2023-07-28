@@ -154,11 +154,11 @@ I am currently working with the [School of Information Science and Technology](h
 -  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 -  [Dr. Meng Ding](https://mengding56.github.io)
 -  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
--  [Mr. Jie Lin](https://jielin96.github.io/)
--  Mr. Hao Zhang
--  Ms. Yun-Yang Liu
--  Ms. Peng-Ling Wu
--  [Ms. Wen-Jie Zheng](https://wjz1355.github.io)
+-  [Dr. Jie Lin](https://jielin96.github.io/)
+-  Dr. Hao Zhang
+-  Dr. Yun-Yang Liu
+-  Dr. Peng-Ling Wu
+-  [Dr. Wen-Jie Zheng](https://wjz1355.github.io)
 -  Ms. Li-Yuan Li
 -  ... ...
 
