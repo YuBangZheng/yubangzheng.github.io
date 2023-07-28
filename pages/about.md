@@ -130,6 +130,7 @@ I am currently working with the [School of Information Science and Technology](h
 -  IEEE Transactions on Image Processing (IEEE TIP), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
+-  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Network Science and Engineering (IEEE TNSE), _Reviewer_
 -  Mathematical Reviews, _Reviewer_
 -  Signal Processing, _Reviewer_
