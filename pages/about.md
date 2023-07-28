@@ -23,8 +23,8 @@ I am currently working with the [School of Information Science and Technology](h
 
 # 🔔 News
 
-- *2023.05*: &nbsp; One paper is accepted by **IEEE Transactions on Geoscience and Remote Sensing**.  
-- *2023.04*: &nbsp; One paper is accepted by **ISPRS Journal of Photogrammetry and Remote Sensing**. 
+- *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
+- *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
 
 # 📖 Educations
 
