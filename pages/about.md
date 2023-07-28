@@ -120,7 +120,7 @@ I am currently working with the [School of Information Science and Technology](h
 
 - 07/2019: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
 
-## 🏷 Editor and Reviewer
+## ⌨ Editor and Reviewer
 
 -  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
 -  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
