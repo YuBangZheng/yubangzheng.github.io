@@ -112,7 +112,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 -  First-Class Academic Scholarship (学业一等奖学金), UESTC, 2020
 -  Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019
 
-# 🗺 Academic Activities
+# 🌐 Academic Activities
 
 ## 🎤 Reports
 
