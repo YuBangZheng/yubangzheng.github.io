@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Yu-Bang Zheng</center> <br> <center>(郑玉棒)</center>"
+  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
   avatar           : "images/yubangzheng.png"
   bio              : "School of Information Science and Technology, Southwest Jiaotong University"
   location         : "Chengdu, China"
