@@ -156,7 +156,7 @@ I am currently working with the [School of Information Science and Technology](h
 -  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
 -  [Dr. Jie Lin](https://jielin96.github.io/)
 -  Dr. Hao Zhang
--  Dr. Yun-Yang Liu
+-  [Dr. Yun-Yang Liu](https://yun-yangliu.github.io/)
 -  Dr. Peng-Ling Wu
 -  [Dr. Wen-Jie Zheng](https://wjz1355.github.io)
 -  Ms. Li-Yuan Li
