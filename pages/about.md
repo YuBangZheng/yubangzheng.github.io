@@ -33,7 +33,7 @@ E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; [Google Scholar
 - *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 - *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
-# Projects
+# 🛠️ Projects
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
