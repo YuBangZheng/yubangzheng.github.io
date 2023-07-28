@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu-Bang Zheng | SWJTU"
+title                    : "Yu-Bang Zheng (郑玉棒) | SWJTU"
 description              : "Assistant Professor in SWJTU."
 repository               : "yubangzheng/yubangzheng.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
   avatar           : "images/yubangzheng.png"
-  bio              : "School of Information Science and Technology, Southwest Jiaotong University"
+  bio              : "<center>Southwest Jiaotong University<center>"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
