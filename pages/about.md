@@ -151,6 +151,7 @@ My current research interests include tensor modeling and computing, tensor lear
 -  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 -  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
+-  [Prof. Heng-Chao Li](https://www.researchgate.net/profile/Heng-Chao-Li)
 -  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
 -  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
 -  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
