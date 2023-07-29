@@ -25,7 +25,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 🔔 News
 
-- *2023.07*: &nbsp; Call for papers--[Optik Special Issue： Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery](https://www.sciencedirect.com/journal/optik/about/call-for-papers#recent-trends-of-math-and-deep-modeling-in-multi-dimensional-image-recovery-theory-models-algorithms-and-applications-vsi-multi-dimensional-image-recovery).  
+- *2023.07*: &nbsp; Call for papers--[*Optik Special Issue: Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery*](https://www.sciencedirect.com/journal/optik/about/call-for-papers#recent-trends-of-math-and-deep-modeling-in-multi-dimensional-image-recovery-theory-models-algorithms-and-applications-vsi-multi-dimensional-image-recovery).  
 - *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
 - *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
 
