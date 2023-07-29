@@ -21,7 +21,7 @@ I am currently working with the [School of Information Science and Technology](h
 
 My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. 
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ) (citations: 500+).
+📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations: 500+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ) .
 
 # 🔔 News
 
