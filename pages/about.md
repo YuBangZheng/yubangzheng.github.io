@@ -21,7 +21,7 @@ I am currently working with the [School of Information Science and Technology](h
 
 My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. 
 
-👋 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
+📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
 📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 500+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
 
