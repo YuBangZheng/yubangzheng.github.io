@@ -27,7 +27,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 🔔 News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">/div>Optik<img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optik/div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2023.07*: &nbsp; Call for papers — Optik Special Issue:
