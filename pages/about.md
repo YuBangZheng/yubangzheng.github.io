@@ -30,11 +30,11 @@ My current research interests include tensor modeling and computing, tensor lear
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2023.07*: &nbsp; Call for papers — Optik Special Issue:
+*2023.07*: &nbsp; **Call for papers** — Optik Special Issue:
 
 [Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery](https://www.sciencedirect.com/journal/optik/about/call-for-papers#recent-trends-of-math-and-deep-modeling-in-multi-dimensional-image-recovery-theory-models-algorithms-and-applications-vsi-multi-dimensional-image-recovery)
 
-Edited by Xi-Le Zhao, Guo-Cheng Wu, Tai-Xiang Jiang, and **Yu-Bang Zheng**
+*Edited by* Xi-Le Zhao, Guo-Cheng Wu, Tai-Xiang Jiang, and **Yu-Bang Zheng**
 
 </div>
 </div>
