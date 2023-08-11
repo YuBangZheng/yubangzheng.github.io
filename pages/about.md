@@ -41,15 +41,6 @@ My current research interests include tensor modeling and computing, tensor lear
 - *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
 - *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
 
-# 📖 Educations
-
-- *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); Student trainee in Computer Science <br>
-   Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io)
-- *2019.09-2022.12*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
 
 # 🛠 Projects
 
@@ -116,7 +107,18 @@ My current research interests include tensor modeling and computing, tensor lear
 
 - Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, 2023.
 
-- Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) 
+- Tian Lu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Meng Ding, Xiao-Tong Li, \"Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity\", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**)
+
+
+# 📖 Educations
+
+- *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); Student trainee in Computer Science <br>
+   Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io)
+- *2019.09-2022.12*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics <br>
+  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+- *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics <br>
+  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+- *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science****
 
 
 # 🏆 Awards and Honors
