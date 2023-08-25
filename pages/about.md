@@ -120,7 +120,7 @@ My current research interests include tensor modeling and computing, tensor lear
   Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
 - *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science****
 
-# 🗄 Fundings
+# 💼 Fundings
 
 -National Natural Science Foundation of China, Youth Program, PI (国家自然科学基金青年项目, NSFC 12001446, 主持), 2024.01-2026.12
 -National Natural Science Foundation of China, general program, Participant (国家自然科学面上项目, 参与), 2019.01-2022.12, 2022.01-2025.12
