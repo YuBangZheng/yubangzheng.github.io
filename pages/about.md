@@ -122,7 +122,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 💾 Fundings
 
-- National Natural Science Foundation of China, Youth Program, Program leader (国家自然科学基金青年项目, 62301456, 主持), 2024.01-2026.12
+- National Natural Science Foundation of China, Youth Program, Program leader (国家自然科学基金青年项目, 主持), 2024.01-2026.12
 - National Natural Science Foundation of China, General program, Participant (国家自然科学基金面上项目, 参与), 2019.01-2022.12, 2022.01-2025.12
 
 # 🏆 Awards and Honors
