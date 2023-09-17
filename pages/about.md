@@ -23,7 +23,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 500+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
+📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 600+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
 
 # 🔔 News
 
