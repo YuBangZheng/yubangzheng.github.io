@@ -129,6 +129,7 @@ My current research interests include tensor modeling and computing, tensor lear
 -  First Prize of Outstanding Paper in the Second Sichuan-Chongqing Science and Technology Conference (<span style="color:red">第二届川渝科技学术大会优秀论文一等奖, 排名第一</span>), Sichuan and Chongqing Associations for Science and Technology, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
 -  Second Prize of the Second Postgraduate Academic Forum of Journal of Image and Graphics (<span style="color:red">第二届中国图象图形学报研究生学术论坛二等奖
 </span>), Journal of Image and Graphics, 2022
+-  Excellent Graduate in Sichuan (四川省优秀毕业生), UESTC, 2023
 -  Wuliangye Innovation Scholarship (五粮液创新奖学金, 2万元), UESTC, 2021
 -  Academic Rookie (学术新秀), UESTC, 2021
 -  National Scholarship for Ph. D. student (博士研究生国家奖学金), UESTC, 2020
