@@ -39,6 +39,7 @@ My current research interests include tensor modeling and computing, tensor lear
 </div>
 </div>
 
+- *2023.11*: &nbsp; One paper is accepted by _**Journal of Scientific Computing**_.
 - *2023.08*: &nbsp; One paper is accepted by _**IEEE Geoscience and Remote Sensing Letters**_.  
 - *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
 - *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
@@ -65,6 +66,8 @@ My current research interests include tensor modeling and computing, tensor lear
 - Yu-Le Wei, **Yu-Bang Zheng\***, Rui Wang, Heng-Chao Li, \"Quaternion Convolutional Neural Network with EMAP Representation for Multisource Remote Sensing Data Classification\", _IEEE Geoscience and Remote Sensing Letters_, 2023.
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+  
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, 2023.
 
 - Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023.
 
