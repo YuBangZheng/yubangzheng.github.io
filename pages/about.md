@@ -188,7 +188,7 @@ My current research interests include tensor modeling and computing, tensor lear
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
 -  [Prof. Heng-Chao Li](https://www.researchgate.net/profile/Heng-Chao-Li)
 -  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
--  [Dr. Teng-Yu Ji](https://sites.google.com/site/tengyuji90/)
+-  [Dr. Teng-Yu Ji](https://teacher.nwpu.edu.cn/tengyuji.html)
 -  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
 -  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
 -  [Dr. Meng Ding](https://mengding56.github.io)
