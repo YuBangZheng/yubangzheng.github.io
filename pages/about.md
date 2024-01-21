@@ -27,7 +27,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 🔔 News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optik</div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optik</div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2023.07*: &nbsp; <span style="color:blue">**Call for papers**</span> — Optik Special Issue:
@@ -38,6 +38,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 </div>
 </div>
+-->
 
 - *2023.11*: &nbsp; One paper is accepted by _**Journal of Scientific Computing**_.
 - *2023.08*: &nbsp; One paper is accepted by _**IEEE Geoscience and Remote Sensing Letters**_.  
