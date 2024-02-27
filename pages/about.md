@@ -40,10 +40,7 @@ My current research interests include tensor modeling and computing, tensor lear
 </div>
 -->
 
-- *2023.11*: &nbsp; One paper is accepted by _**Journal of Scientific Computing**_.
-- *2023.08*: &nbsp; One paper is accepted by _**IEEE Geoscience and Remote Sensing Letters**_.  
-- *2023.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.  
-- *2023.04*: &nbsp; One paper is accepted by _**ISPRS Journal of Photogrammetry and Remote Sensing**_. 
+- *2024.02*: &nbsp; One paper is accepted by _**CVPR 2024**_. 
 
 
 # 🧰 Projects
@@ -64,6 +61,14 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 📄 Publications 
 
+## 2024
+
+- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _CVPR_, 2024. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf)
+
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, vol. 98, art no. 16, pp. 1-27, 2024.
+
+- Yong Chen, Maolin Chen, Wei He, Jinshan Zeng, Min Huang, **Yu-Bang Zheng**, \"Thick Cloud Removal in Multitemporal Remote Sensing Images via Low-Rank Regularized Self-Supervised Network\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, art no. 5506613, pp. 1-13, 2024.  vol. 62, pp. 1-13, 2024.
+
 ## 2023
 
 - Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10125571/)
@@ -72,8 +77,6 @@ My current research interests include tensor modeling and computing, tensor lear
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
   
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, 2023.
-
 - Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023.
 
 - Hao Zhang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5502313, pp. 1-13, 2023.
