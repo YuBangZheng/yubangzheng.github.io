@@ -172,6 +172,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 -  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
 -  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
+-  International Journal of Computer Vision (IJCV), _Reviewer_
 -  IEEE Transactions on Image Processing (IEEE TIP), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
