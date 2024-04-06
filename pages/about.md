@@ -63,7 +63,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 ## 2024
 
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _CVPR_, 2024. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf) (<span style="color:red">Poster-Highlight, Top 20% of Accepted Papers </span>)
+- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _CVPR_, 2024. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf) (<span style="color:red">Poster-Highlight, 11.9% of Accepted Papers </span>)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, vol. 98, art no. 16, pp. 1-27, 2024.
 
