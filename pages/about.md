@@ -63,7 +63,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 ## 2024
 
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26254-26263, 2024. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_SVDinsTN.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf) (<span style="color:red">Poster-Highlight, 11.9% of Accepted Papers</span>)
+- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26254-26263, 2024. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_SVDinsTN.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf) (<span style="color:red">Poster-Highlight, 11.9% of Accepted Papers</span>)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, vol. 98, art no. 16, pp. 1-27, 2024.
 
