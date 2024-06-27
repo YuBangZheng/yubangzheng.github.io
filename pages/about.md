@@ -178,7 +178,7 @@ My current research interests include tensor modeling and computing, tensor lear
 -  IEEE Transactions on Image Processing (IEEE TIP), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
--  Transactions on Computational Imaging (IEEE TCI), _Reviewer_
+-  IEEE Transactions on Computational Imaging (IEEE TCI), _Reviewer_
 -  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Network Science and Engineering (IEEE TNSE), _Reviewer_
 -  ISPRS Journal of Photogrammetry and Remote Sensing, _Reviewer_
