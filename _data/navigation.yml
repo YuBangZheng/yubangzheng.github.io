@@ -9,9 +9,6 @@ main:
   - title: "Projects"
     url: "/#-projects" 
 
-  - title: "Preprints"
-    url: "/#-preprints" 
-
   - title: "Publications"
     url: "/#-publications"
 
