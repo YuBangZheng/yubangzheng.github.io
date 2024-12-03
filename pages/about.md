@@ -40,7 +40,7 @@ My current research interests include tensor modeling and computing, tensor lear
 </div>
 -->
 
-- *2024.12*: &nbsp; One paper is accepted by _**IEEE TGRS**_. 
+- *2024.12*: &nbsp; One paper is accepted by _**IEEE TNNLS**_. 
 - *2024.10*: &nbsp; One paper is accepted by _**IEEE TGRS**_. 
 - *2024.07*: &nbsp; One paper is accepted by _**IEEE TGRS**_. 
 - *2024.02*: &nbsp; One paper is accepted by _**CVPR 2024**_. 
