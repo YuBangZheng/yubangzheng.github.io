@@ -64,10 +64,16 @@ My current research interests include tensor modeling and computing, tensor lear
 
 # 📄 Publications 
 
+## 2025
+
+- Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification_, DOI:10.1109/TNNLS.2024.3511575, pp. 1-15, 2025.
+
+- Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025.
+
 ## 2024
 
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26254-26263, 2024. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_SVDinsTN.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf) (<span style="color:red">Poster-Highlight, 11.9% of Accepted Papers</span>)
-  
+
 - Jia-Jie Yin, Heng-Chao Li, **Yu-Bang Zheng\***, Gui Gao, Yuxin Hu, Ran Tao, \"Spatial-Temporal Weighted and Regularized Tensor Model for Infrared Dim and Small Target Detection\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, art no. 5005317, pp. 1-17, 2024.
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, vol. 98, art no. 16, pp. 1-27, 2024.
