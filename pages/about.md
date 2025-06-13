@@ -40,10 +40,10 @@ My current research interests include tensor modeling and computing, tensor lear
 </div>
 -->
 
+- *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
+- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_. 
 - *2024.12*: &nbsp; One paper is accepted by _**IEEE TNNLS**_. 
 - *2024.10*: &nbsp; One paper is accepted by _**IEEE TGRS**_. 
-- *2024.07*: &nbsp; One paper is accepted by _**IEEE TGRS**_. 
-- *2024.02*: &nbsp; One paper is accepted by _**CVPR 2024**_. 
 
 
 # 🧰 Projects
@@ -65,6 +65,10 @@ My current research interests include tensor modeling and computing, tensor lear
 # 📄 Publications 
 
 ## 2025
+
+- Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025.
+
+- Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, \"Functional Tensor Singular Value Decomposition\", _SIAM Journal on Scientific Computing_, 2025.
 
 - Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, DOI:10.1109/TNNLS.2024.3511575, pp. 1-15, 2025.
 
