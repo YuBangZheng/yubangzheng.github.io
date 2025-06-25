@@ -40,6 +40,8 @@ My current research interests include tensor modeling and computing, tensor lear
 </div>
 -->
 
+- *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
+- *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
 - *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
 - *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_. 
 - *2024.12*: &nbsp; One paper is accepted by _**IEEE TNNLS**_. 
