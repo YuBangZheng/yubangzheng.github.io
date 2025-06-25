@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently working with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received the Ph.D. degree (advised by [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)) from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, in 2022. 
 
-My current research interests include tensor modeling and computing, tensor learning, and high-dimensional data processing. 
+My current interests include high-dimensional image processing, machine learning and its theoretical foundations, tensor modeling and computing. 
 
 📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
