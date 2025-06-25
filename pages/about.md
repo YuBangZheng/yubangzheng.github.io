@@ -78,7 +78,7 @@ My current research interests include tensor modeling and computing, tensor lear
 
 - Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025.
 
-- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, Yu-Bang Zheng, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, 2025.
+- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, 2025.
 
 ## 2024
 
