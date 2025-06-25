@@ -44,8 +44,8 @@ My current research interests include tensor modeling and computing, tensor lear
 - *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
 - *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
 - *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_. 
-- *2024.12*: &nbsp; One paper is accepted by _**IEEE TNNLS**_. 
-- *2024.10*: &nbsp; One paper is accepted by _**IEEE TGRS**_. 
+- *2024.12*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
+- *2024.10*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
 
 
 # 🧰 Projects
@@ -68,6 +68,8 @@ My current research interests include tensor modeling and computing, tensor lear
 
 ## 2025
 
+- **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, \"Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects\", _Neural Networks_, 2025.
+
 - Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025.
 
 - Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, \"Functional Tensor Singular Value Decomposition\", _SIAM Journal on Scientific Computing_, 2025.
@@ -75,6 +77,8 @@ My current research interests include tensor modeling and computing, tensor lear
 - Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, DOI:10.1109/TNNLS.2024.3511575, pp. 1-15, 2025.
 
 - Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025.
+
+- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, Yu-Bang Zheng, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, 2025.
 
 ## 2024
 
