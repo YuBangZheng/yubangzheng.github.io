@@ -39,7 +39,8 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 </div>
 -->
-
+- *2025.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
+- *2025.07*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
 - *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
 - *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
 - *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
