@@ -23,7 +23,7 @@ My current interests include high-dimensional image processing, machine learning
 
 📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1000+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)
+📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1000+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm)
 
 # 🔔 News
 
