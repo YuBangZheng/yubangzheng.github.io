@@ -70,7 +70,7 @@ My current interests include high-dimensional image processing, machine learning
 
 ## 2025
 
-- **Yu-Bang Zheng**, Jia-Le Ma\*, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, \"Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2025.3598118, 2025.
+- **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, \"Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2025.3598118, 2025.
   
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, \"Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects\", _Neural Networks_, 2025.
 
