@@ -96,7 +96,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Wen-Jie Zheng, Xiao-Xuan Bai, **Yu-Bang Zheng**, Ya-Ru Fan, Ting-Zhu Huang,  Xi-Le Zhao\*, \"Feature-Domain Fidelity and Tensor Low-Rank Regularization for Cloud Removal in Remote Sensing Images\", _IEEE International Geoscience and Remote Sensing Symposium_, pp. 8274-8277, 2024.
 
-- Yong Chen, Maolin Chen, Wei He, Jinshan Zeng, Min Huang, **Yu-Bang Zheng**, \"Thick Cloud Removal in Multitemporal Remote Sensing Images via Low-Rank Regularized Self-Supervised Network\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, art no. 5506613, pp. 1-13, 2024.
+- Yong Chen, Maolin Chen, Wei He, Jinshan Zeng, Min Huang, **Yu-Bang Zheng**, \"Thick Cloud Removal in Multitemporal Remote Sensing Images via Low-Rank Regularized Self-Supervised Network\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, art no. 5506613, pp. 1-13, 2024. (<span style="color:red">ESI Highly Cited Paper</span>)
 
 ## 2023
 
@@ -117,7 +117,7 @@ My current interests include high-dimensional image processing, machine learning
 
 ## 2022
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip)
+- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
 
