@@ -174,8 +174,10 @@ My current interests include high-dimensional image processing, machine learning
 
 # 💾 Fundings
 
-- National Natural Science Foundation of China, Youth Program, Principal Investigator (国家自然科学基金青年项目, 主持), 2024.01-2026.12
-- National Natural Science Foundation of China, General Program, Participant (国家自然科学基金面上项目, 参与), 2019.01-2022.12, 2022.01-2025.12, 2024.01-2027.12
+- 国家自然科学基金青年项目, 主持, 2024.01-2026.12
+- 四川省自然科学基金青年项目，主持，2024.01-2025.12
+- 中国博士后科学基金特别资助项目，主持，2025.08-2026.07
+- 中央高校基本业务项目，主持，2024.01-2025.12
 
 # 🏆 Awards and Honors
 
