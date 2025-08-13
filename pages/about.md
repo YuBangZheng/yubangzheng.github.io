@@ -247,12 +247,13 @@ My current interests include high-dimensional image processing, machine learning
 -  [Prof. Xi-Le Zhao (赵熙乐教授)](https://zhaoxile.github.io/)
 -  [Prof. Qing Zhu (朱庆教授)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
+-  ... ...
+  
 <!-- 
 -  [Prof. Tai-Xiang Jiang (蒋太翔)](https://taixiangjiang.github.io)
 -  [Dr. Teng-Yu Ji (冀腾宇)](https://teacher.nwpu.edu.cn/tengyuji.html)
 -  [Dr. Yong Chen (陈勇)](https://chenyong1993.github.io/yongchen.github.io/)
 -  [Dr. Wen-Jie Zheng (郑文洁)](https://wjz1355.github.io)
--  ... ...
-
+-->
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
