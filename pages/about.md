@@ -211,44 +211,48 @@ My current interests include high-dimensional image processing, machine learning
 -  IEEE Transactions on Computational Imaging (IEEE TCI), _Reviewer_
 -  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Network Science and Engineering (IEEE TNSE), _Reviewer_
+-  IEEE Transactions on Big Data (IEEE TBD), _Reviewer_
+-  IEEE Transactions on Artificial Intelligence (IEEE TAI), _Reviewer_
 -  IEEE Journal of Selected Topics in Signal Processing (IEEE J-STSP), _Reviewer_
 -  Remote Sensing of Environment, _Reviewer_
 -  ISPRS Journal of Photogrammetry and Remote Sensing, _Reviewer_
 -  SCIENCE CHINA Information Sciences, _Reviewer_
 -  International Journal of Applied Earth Observation and Geoinformation, _Reviewer_
 -  Mathematical Reviews, _Reviewer_
--  Signal Processing, _Reviewer_
 -  Pattern Recognition, _Reviewer_
+-  Signal Processing, _Reviewer_
+-  Machine Learning, _Reviewer_
 -  Knowledge-Based Systems, _Reviewer_
 -  IEEE Signal Processing Letters, _Reviewer_
 -  IEEE Geoscience and Remote Sensing Letters, _Reviewer_
+-  NeurIPS 2025, AAAI 2026, _Reviewer_
+-  ... ...
+
+<!--
 -  Journal of Visual Communication and Image Representation, _Reviewer_
 -  Applied Mathematical Modeling, _Reviewer_
 -  Applied Mathematics and Computation, _Reviewer_
+-  Neural Processing Letters, _Reviewer_
+-  Neurocomputing, _Reviewer_
 -  Information Systems, _Reviewer_
--  Machine Learning, _Reviewer_
 -  Digital Signal Processing, _Reviewer_
 -  Statistical Papers, _Reviewer_
 -  Journal of Computational Science, _Reviewer_
--  Neurocomputing, _Reviewer_
--  Neural Processing Letters, _Reviewer_
--  NeurIPS 2025, AAAI 2026, _Reviewer_
 -  ACML 2021, 2022, _Reviewer_
--  ... ...
-
-<!--  
+ -->
 ## 🤝 Co-authors
 
--  [Prof. Ting-Zhu Huang (黄廷祝)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
--  [Prof. Heng-Chao Li (李恒超)](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm)
--  [Prof. Xi-Le Zhao (赵熙乐)](https://zhaoxile.github.io/)
--  [Prof. Qing Zhu (朱庆)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
+-  [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+-  [Prof. Heng-Chao Li (李恒超教授)](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm)
+-  [Prof. Xi-Le Zhao (赵熙乐教授)](https://zhaoxile.github.io/)
+-  [Prof. Qing Zhu (朱庆教授)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
+<!-- 
 -  [Prof. Tai-Xiang Jiang (蒋太翔)](https://taixiangjiang.github.io)
 -  [Dr. Teng-Yu Ji (冀腾宇)](https://teacher.nwpu.edu.cn/tengyuji.html)
 -  [Dr. Yong Chen (陈勇)](https://chenyong1993.github.io/yongchen.github.io/)
 -  [Dr. Wen-Jie Zheng (郑文洁)](https://wjz1355.github.io)
 -  ... ...
--->
+
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
