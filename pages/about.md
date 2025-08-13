@@ -229,6 +229,7 @@ My current interests include high-dimensional image processing, machine learning
 -  ACML 2021, 2022, _Reviewer_
 -  ... ...
 
+<!--  
 ## 🤝 Co-authors
 
 -  [Prof. Ting-Zhu Huang (黄廷祝)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
@@ -241,5 +242,6 @@ My current interests include high-dimensional image processing, machine learning
 -  [Dr. Yong Chen (陈勇)](https://chenyong1993.github.io/yongchen.github.io/)
 -  [Dr. Wen-Jie Zheng (郑文洁)](https://wjz1355.github.io)
 -  ... ...
+-->
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
