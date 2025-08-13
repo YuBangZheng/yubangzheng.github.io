@@ -204,13 +204,18 @@ My current interests include high-dimensional image processing, machine learning
 -  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
 -  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
 -  International Journal of Computer Vision (IJCV), _Reviewer_
+-  IEEETransactions on Knowledge and Data Engineering (IEEE TKDE), _Reviewer_
 -  IEEE Transactions on Image Processing (IEEE TIP), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
 -  IEEE Transactions on Computational Imaging (IEEE TCI), _Reviewer_
 -  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Network Science and Engineering (IEEE TNSE), _Reviewer_
+-  IEEE Journal of Selected Topics in Signal Processing (IEEE J-STSP), _Reviewer_
+-  Remote Sensing of Environment, _Reviewer_
 -  ISPRS Journal of Photogrammetry and Remote Sensing, _Reviewer_
+-  SCIENCE CHINA Information Sciences, _Reviewer_
+-  International Journal of Applied Earth Observation and Geoinformation, _Reviewer_
 -  Mathematical Reviews, _Reviewer_
 -  Signal Processing, _Reviewer_
 -  Pattern Recognition, _Reviewer_
@@ -222,10 +227,12 @@ My current interests include high-dimensional image processing, machine learning
 -  Applied Mathematics and Computation, _Reviewer_
 -  Information Systems, _Reviewer_
 -  Machine Learning, _Reviewer_
+-  Digital Signal Processing, _Reviewer_
 -  Statistical Papers, _Reviewer_
 -  Journal of Computational Science, _Reviewer_
 -  Neurocomputing, _Reviewer_
 -  Neural Processing Letters, _Reviewer_
+-  NeurIPS 2025, AAAI 2026, _Reviewer_
 -  ACML 2021, 2022, _Reviewer_
 -  ... ...
 
