@@ -231,22 +231,15 @@ My current interests include high-dimensional image processing, machine learning
 
 ## 🤝 Co-authors
 
--  [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm)
--  [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)
+-  [Prof. Ting-Zhu Huang (黄廷祝)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
+-  [Prof. Heng-Chao Li (李恒超)](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm)
+-  [Prof. Xi-Le Zhao (赵熙乐)](https://zhaoxile.github.io/)
+-  [Prof. Qing Zhu (朱庆)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
 -  [Prof. Qibin Zhao](https://qibinzhao.github.io)
--  [Prof. Heng-Chao Li](https://www.researchgate.net/profile/Heng-Chao-Li)
--  [Prof. Tai-Xiang Jiang](https://taixiangjiang.github.io)
--  [Dr. Teng-Yu Ji](https://teacher.nwpu.edu.cn/tengyuji.html)
--  [Dr. Tian-Hui Ma](https://dblp.org/pid/173/2719.html)
--  [Dr. Yong Chen](https://chenyong1993.github.io/yongchen.github.io/)
--  [Dr. Meng Ding](https://mengding56.github.io)
--  [Dr. Jian-Li Wang](https://wangjianli123.github.io/)
--  [Dr. Jie Lin](https://jielin96.github.io/)
--  Dr. Hao Zhang
--  [Dr. Yun-Yang Liu](https://yun-yangliu.github.io/)
--  Dr. Peng-Ling Wu
--  [Dr. Wen-Jie Zheng](https://wjz1355.github.io)
--  Ms. Li-Yuan Li
+-  [Prof. Tai-Xiang Jiang (蒋太翔)](https://taixiangjiang.github.io)
+-  [Dr. Teng-Yu Ji (冀腾宇)](https://teacher.nwpu.edu.cn/tengyuji.html)
+-  [Dr. Yong Chen (陈勇)](https://chenyong1993.github.io/yongchen.github.io/)
+-  [Dr. Wen-Jie Zheng (郑文洁)](https://wjz1355.github.io)
 -  ... ...
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
