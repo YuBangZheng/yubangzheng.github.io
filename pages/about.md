@@ -152,7 +152,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - **Yu-Bang Zheng**, Ting-Zhu Huang\*, Teng-Yu Ji, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[Website]](https://www.sciencedirect.com/science/article/pii/S0307904X19300782) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. [[Website]]() (**Oral**) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[Website]](https://ieeexplore.ieee.org/document/8900157) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
 - Xiao-Tong Li, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, \"Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization\", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219311099)
 
