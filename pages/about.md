@@ -62,7 +62,7 @@ My current interests include high-dimensional image processing, machine learning
 # 📝 Preprints 
 
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: An Integrated Method for Tensor Network Representation with Efficient Structure Search
-\", _arXiv:2305.14912_, 2023. [[PDF]](https://arxiv.org/pdf/2305.14912.pdf)
+\", _arXiv:2305.14912_, 2023. [🔗Paper](https://arxiv.org/pdf/2305.14912.pdf)
 
 -->
 
