@@ -73,17 +73,17 @@ My current interests include high-dimensional image processing, machine learning
 
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, \"Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects\", _Neural Networks_, vol. 191, pp. 107808, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
-- Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025.
+- Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
 
-- Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025.
+- Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942)
 
-- Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, \"Functional Tensor Singular Value Decomposition\", _SIAM Journal on Scientific Computing_, vol. 47, no. 4, pp. A2180-A2204, 2025.
+- Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, \"Functional Tensor Singular Value Decomposition\", _SIAM Journal on Scientific Computing_, vol. 47, no. 4, pp. A2180-A2204, 2025. [[Website]](https://epubs.siam.org/doi/abs/10.1137/24M1644687)
 
-- Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 8, pp. 14213-14227, 2025.
+- Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 8, pp. 14213-14227, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2025.3595950, 2025.
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2025.3595950, 2025. [[Website]](https://ieeexplore.ieee.org/document/11113406)
 
-- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, DOI: 10.1109/TBDATA.2025.3588029, 2025.
+- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, DOI: 10.1109/TBDATA.2025.3588029, 2025.[[Website]](https://ieeexplore.ieee.org/document/11077440)
 
 ## 2024
 
