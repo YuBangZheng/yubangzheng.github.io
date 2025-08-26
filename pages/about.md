@@ -111,7 +111,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Peng-Ling Wu, Xi-Le Zhao\*, Meng Ding, **Yu-Bang Zheng**, Lu-Bin Cui, Ting-Zhu Huang, \"Tensor Ring Decomposition-Based Model with Interpretable Gradient Factors Regularization for Tensor Completion\", _Knowledge-Based Systems_, vol. 259, pp. 110094, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S095070512201190X)
 
-- Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, 2023. [[Website]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12383)
+- Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, vol. 17, pp. 1908–1923, 2023. [[Website]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12383)
 
 
 ## 2022
