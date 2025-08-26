@@ -45,7 +45,8 @@ My current interests include high-dimensional image processing, machine learning
 - *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
 - *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
 - *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
-- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_. 
+- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_.
+- *2025.02*: &nbsp; One paper is accepted by _**Signal Processing**_. 
 - *2024.12*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
 - *2024.10*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
 
@@ -85,7 +86,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, DOI: 10.1109/TBDATA.2025.3588029, 2025. [[Website]](https://ieeexplore.ieee.org/document/11077440)
 
-- Bin Xiao, Heng-Chao Li\*, Rui Wang, **Yu-Bang Zheng**, \"Fully-Connected Tensor Network Decomposition with Gradient Factors Regularization for Robust Tensor Completion\", _Signal Processing_, vol. 233, pp. 109933, 2025.
+- Bin Xiao, Heng-Chao Li\*, Rui Wang, **Yu-Bang Zheng**, \"Fully-Connected Tensor Network Decomposition with Gradient Factors Regularization for Robust Tensor Completion\", _Signal Processing_, vol. 233, pp. 109933, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0165168425000489)
 
 ## 2024
 
