@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, under the supervision of Prof. [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)). 
+I am currently an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, under the supervision of Prof. [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm). 
 
 My current interests include high-dimensional image processing, machine learning and its theoretical foundations, tensor modeling and computing. 
 
