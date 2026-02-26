@@ -39,18 +39,8 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 </div>
 -->
-- *2025.09*: &nbsp; Two papers are accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.09*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2025.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.07*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
-- *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
-- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_.
-- *2025.02*: &nbsp; One paper is accepted by _**Signal Processing**_. 
-- *2024.12*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2024.10*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-
+- *2026.02*: &nbsp; One paper is accepted by _**CVPR 2026**_. 
+- *2026.02*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
 
 # 🧰 Projects
 
@@ -69,6 +59,15 @@ My current interests include high-dimensional image processing, machine learning
 
 # 📄 Publications 
 
+## 2026
+
+- Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _CVPR 2026_.
+
+- Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2026.3662752, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)
+
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
+
+
 ## 2025
 
 - **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, \"Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5406215, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
@@ -83,9 +82,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 8, pp. 14213-14227, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2025.3595950, 2025. [[Website]](https://ieeexplore.ieee.org/document/11113406)
-
-- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, DOI: 10.1109/TBDATA.2025.3588029, 2025. [[Website]](https://ieeexplore.ieee.org/document/11077440)
+- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, vol. 11, no. 6, pp. 3225-3239, 2025. [[Website]](https://ieeexplore.ieee.org/document/11077440)
 
 - Bin Xiao, Heng-Chao Li\*, Rui Wang, **Yu-Bang Zheng**, \"Fully-Connected Tensor Network Decomposition with Gradient Factors Regularization for Robust Tensor Completion\", _Signal Processing_, vol. 233, pp. 109933, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0165168425000489)
 
