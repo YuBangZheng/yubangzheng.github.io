@@ -67,6 +67,8 @@ My current interests include high-dimensional image processing, machine learning
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
 
+- Yu-Le Wei, Heng-Chao Li\*, Jian-Li Wang, **Yu-Bang Zheng**, Jie Pan, Qian Du, \"Multimodal Quaternion Representation Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 37, no. 2, pp. 711-725, 2026. [[Website]](https://ieeexplore.ieee.org/document/11177249)
+
 
 ## 2025
 
@@ -82,7 +84,13 @@ My current interests include high-dimensional image processing, machine learning
 
 - Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 8, pp. 14213-14227, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
 
+- Wei-Hao Wu, Ting-Zhu Huang\*, Xi-Le Zhao\*, Xingwen Quan, Yu-Bang Zheng, Deyu Meng, \"A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework From a Continuous Perspective,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 63, art no. 5525112, pp. 1-12, 2025.
+
+- Teng-Yu Ji, Zirui Song, Dong-Lin Sun, Yu-Bang Zheng, "Multitemporal Thick Cloud Removal via Temporal Smoothness in Image and Gradient Domains," IEEE Transactions on Geoscience and Remote Sensing, vol. 63, art no. 5645715, pp. 1-15, 2025.
+
 - Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, vol. 11, no. 6, pp. 3225-3239, 2025. [[Website]](https://ieeexplore.ieee.org/document/11077440)
+
+- Zhe-Min Wei, Heng-Chao Li\*, **Yu-Bang Zheng**, Jian-Li Wang, Qian Du, \"ULADiff: Unmixing-Guided Learnable Abundance-Latent Diffusion for Hyperspectral Image Denoising\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5530015, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11386834)
 
 - Bin Xiao, Heng-Chao Li\*, Rui Wang, **Yu-Bang Zheng**, \"Fully-Connected Tensor Network Decomposition with Gradient Factors Regularization for Robust Tensor Completion\", _Signal Processing_, vol. 233, pp. 109933, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0165168425000489)
 
