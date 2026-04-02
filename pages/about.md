@@ -86,7 +86,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Wei-Hao Wu, Ting-Zhu Huang\*, Xi-Le Zhao\*, Xingwen Quan, Yu-Bang Zheng, Deyu Meng, \"A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework From a Continuous Perspective\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5525112, pp. 1-12, 2025. [[Website]](https://ieeexplore.ieee.org/document/11162693)
 
-- Teng-Yu Ji, Zirui Song, Dong-Lin Sun, Yu-Bang Zheng, \"Multitemporal Thick Cloud Removal via Temporal Smoothness in Image and Gradient Domains\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5645715, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11179937)
+- Teng-Yu Ji, Zirui Song\*, Dong-Lin Sun\*, Yu-Bang Zheng, \"Multitemporal Thick Cloud Removal via Temporal Smoothness in Image and Gradient Domains\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5645715, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11179937)
 
 - Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, vol. 11, no. 6, pp. 3225-3239, 2025. [[Website]](https://ieeexplore.ieee.org/document/11077440)
 
@@ -114,7 +114,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
   
-- Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023. [[Website]](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)
+- Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2024, vol. 18, no. 1, pp. 208-238, 2023. [[Website]](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)
 
 - Hao Zhang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5502313, pp. 1-13, 2023. [[Website]](https://ieeexplore.ieee.org/abstract/document/10019288)
 
