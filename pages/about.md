@@ -39,7 +39,7 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 </div>
 -->
-- *2026.02*: &nbsp; One paper is accepted by _**IEEE Transactions on Multimedia**_. 
+- *2026.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Multimedia**_. 
 - *2026.02*: &nbsp; One paper is accepted by _**CVPR 2026**_. (<span style="color:red">Poster-Highlight)
 - *2026.02*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
 
