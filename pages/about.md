@@ -62,14 +62,13 @@ My current interests include high-dimensional image processing, machine learning
 
 ## 2026
 
-- Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _CVPR 2026_. (<span style="color:red">Poster-Highlight)
+- Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _CVPR 2026_, pp. 26399-26408, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) (<span style="color:red">Poster-Highlight)
 
-- Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2026.3662752, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)
+- Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 6, pp. 8260-8273, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
 
 - Yu-Le Wei, Heng-Chao Li\*, Jian-Li Wang, **Yu-Bang Zheng**, Jie Pan, Qian Du, \"Multimodal Quaternion Representation Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 37, no. 2, pp. 711-725, 2026. [[Website]](https://ieeexplore.ieee.org/document/11177249)
-
 
 ## 2025
 
