@@ -79,7 +79,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
 
-- Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942)
+- Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942) [[Code]](https://yubangzheng.github.io/codes/code_3DCNTNN.zip)
 
 - Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, \"Functional Tensor Singular Value Decomposition\", _SIAM Journal on Scientific Computing_, vol. 47, no. 4, pp. A2180-A2204, 2025. [[Website]](https://epubs.siam.org/doi/abs/10.1137/24M1644687)
 
