@@ -69,6 +69,8 @@ My current interests include high-dimensional image processing, machine learning
 
 - Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 6, pp. 8260-8273, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)[[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
 
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery\", _IEEE Transactions on Multimedia_, doi: 10.1109/TMM.2026.3721314, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
+
 - Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, \"Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction\", _IEEE Transactions on Image Processing_, vol. 35, pp. 4558-4570, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
