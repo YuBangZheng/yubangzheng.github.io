@@ -39,7 +39,10 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 </div>
 -->
+
+- *2026.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
 - *2026.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Multimedia**_. 
+- *2026.04*: &nbsp; One paper is accepted by _**IEEE Transactions on Image Processing**_. 
 - *2026.02*: &nbsp; One paper is accepted by _**CVPR 2026**_. (<span style="color:red">Poster-Highlight)
 - *2026.02*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
 
@@ -64,7 +67,9 @@ My current interests include high-dimensional image processing, machine learning
 
 - Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26399-26408, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) (<span style="color:red">Poster-Highlight)
 
-- Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 6, pp. 8260-8273, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)
+- Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 6, pp. 8260-8273, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)[[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
+
+- Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, \"Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction\", _IEEE Transactions on Image Processing_, vol. 35, pp. 4558-4570, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
 
