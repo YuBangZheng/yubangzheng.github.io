@@ -67,7 +67,7 @@ My current interests include high-dimensional image processing, machine learning
 
 ## 2026
 
-- **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, \"Hyperspectral Image Denoising Based on Tensor Models\", Book Chapter In Machine-Learning-Based Hyperspectral Image Processing, Bing Zhang (Book Editor), _Wiley_, https://doi.org/10.1002/9781394267880.ch3, 2026.
+- **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, \"Hyperspectral Image Denoising Based on Tensor Models\", Book Chapter In Machine-Learning-Based Hyperspectral Image Processing, Bing Zhang (Book Editor), _Wiley_, https://doi.org/10.1002/9781394267880.ch3, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
 - Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26399-26408, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) (<span style="color:red">Poster-Highlight)
 
@@ -78,6 +78,8 @@ My current interests include high-dimensional image processing, machine learning
 - Bin Xiao, **Yu-Bang Zheng**, Heng-Chao Li\*, \"High-Order Tensor Completion via A Learnable T-product-Induced Fully-Connected Tensor Network Decomposition\", _Pattern Recognition_, vol. 180, pp. 114332, 2026. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012975)
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery\", _IEEE Transactions on Multimedia_, doi: 10.1109/TMM.2026.3721314, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
+
+- Jia-Jie Yin, Heng-Chao Li\*, **Yu-Bang Zheng**, Xiong-Fei Geng, Jie Pan, \"DNN-Aided Low-Rank and Sparse Decomposition Model for Infrared Small Target Detection\", _Pattern Recognition_, vol. 175, pp. 113070, 2026. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000336)
 
 - Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, \"Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction\", _IEEE Transactions on Image Processing_, vol. 35, pp. 4558-4570, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
 
