@@ -61,7 +61,7 @@ My current interests include high-dimensional image processing, machine learning
 
 # 📝 Preprints 
 
-- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted.
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Ben-Zheng Li, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted.
 
 # 📄 Publications 
 
