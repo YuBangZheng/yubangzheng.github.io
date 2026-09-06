@@ -57,13 +57,11 @@ My current interests include high-dimensional image processing, machine learning
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="https://yubangzheng.github.io/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="https://yubangzheng.github.io/images/tnntoolbox.png" width="250"></a>
 
-<!--
+
 
 # 📝 Preprints 
 
-
-
--->
+- **Wen-Jie Zheng**, Xi-Le Zhao\*, Yu-Bang Zheng, Teng-Yu Ji, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted.
 
 # 📄 Publications 
 
