@@ -70,7 +70,7 @@ My current interests include high-dimensional image processing, machine learning
 
 - **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, \"Hyperspectral Image Denoising Based on Tensor Models\", Book Chapter In Machine-Learning-Based Hyperspectral Image Processing, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
-- **Yu-Bang Zheng**, Xi-Le Zhao, Heng-Chao Li, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, \"A Structure-Revealing Tensor Network Paradigm and Its Applications\", _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026.
+- **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, \"A Structure-Revealing Tensor Network Paradigm and Its Applications\", _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026.
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, \"Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, 2026.
 
