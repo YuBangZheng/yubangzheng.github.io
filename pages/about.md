@@ -40,6 +40,7 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 -->
 
+- *2026.09*: &nbsp; One paper is accepted by _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_.
 - *2026.09*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
 - *2026.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_.
 - *2026.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_.
@@ -68,6 +69,12 @@ My current interests include high-dimensional image processing, machine learning
 ## 2026
 
 - **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, \"Hyperspectral Image Denoising Based on Tensor Models\", Book Chapter In Machine-Learning-Based Hyperspectral Image Processing, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
+
+- **Yu-Bang Zheng**, Xi-Le Zhao, Heng-Chao Li, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, \"A Structure-Revealing Tensor Network Paradigm and Its Applications\", _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026.
+
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, \"Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, 2026.
+
+- Zhe-Min Wei, **Yu-Bang Zheng**, Heng-Chao Li\*, Lianru Gao, \"Latent Diffusion Prior Enhanced Frequency-Aware Deep Unfolding Network for Hyperspectral Image Denoising\", _IEEE Transactions on Geoscience and Remote Sensing_, 2026.
 
 - Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26399-26408, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) (<span style="color:red">Poster-Highlight)
 
