@@ -72,15 +72,15 @@ My current interests include high-dimensional image processing, machine learning
 
 - **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, \"Hyperspectral Image Denoising Based on Tensor Models\", Book Chapter In Machine-Learning-Based Hyperspectral Image Processing, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, \"Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2026.3731463, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
-
-- Zhe-Min Wei, **Yu-Bang Zheng**, Heng-Chao Li\*, Lianru Gao, \"Latent Diffusion Prior Enhanced Frequency-Aware Deep Unfolding Network for Hyperspectral Image Denoising\", _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2026.3731221, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683243)
-
 - Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26399-26408, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) (<span style="color:red">Poster-Highlight)
 
 - Tian-Yu Ma, Heng-Chao Li, **Yu-Bang Zheng\***, Lianru Gao, Qian Du, \"Low-Rank Tensor Representation Learning Network for Robust Hyperspectral Image Classification against Adversarial Attacks\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2026.3727195, 2026.
 
 - Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 6, pp. 8260-8273, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)[[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
+
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, \"Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2026.3731463, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
+
+- Zhe-Min Wei, **Yu-Bang Zheng**, Heng-Chao Li\*, Lianru Gao, \"Latent Diffusion Prior Enhanced Frequency-Aware Deep Unfolding Network for Hyperspectral Image Denoising\", _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2026.3731221, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683243)
 
 - Bin Xiao, **Yu-Bang Zheng**, Heng-Chao Li\*, \"High-Order Tensor Completion via A Learnable T-product-Induced Fully-Connected Tensor Network Decomposition\", _Pattern Recognition_, vol. 180, pp. 114332, 2026. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012975)
 
