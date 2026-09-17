@@ -23,7 +23,7 @@ My current interests include high-dimensional image processing, machine learning
 
 📢 <span style="color:blue">**My team admits 1\~2 PhD students and 7\~10 master’s students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1800+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm)
+📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1900+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm)
 
 # 🔔 News
 
@@ -47,7 +47,7 @@ My current interests include high-dimensional image processing, machine learning
 - *2026.06*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
 - *2026.05*: &nbsp; One paper is accepted by _**IEEE Transactions on Multimedia**_. 
 - *2026.04*: &nbsp; One paper is accepted by _**IEEE Transactions on Image Processing**_. 
-- *2026.02*: &nbsp; One paper is accepted by _**CVPR 2026**_. (<span style="color:red">**Poster-Highlight**)
+- *2026.02*: &nbsp; One paper is accepted by _**CVPR 2026**_ (<span style="color:red">**Poster-Highlight**).
 - *2026.02*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_.
 - *2026.01*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
 
