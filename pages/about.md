@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Associate Professor at the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2022.
 
-<span class="anchor" id="research"></span>
+<span class="anchor" id="research-interests"></span>
 
 # 🤖 Research Interests
 
@@ -162,6 +162,8 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 - **Guest Editor:** _Optik_ Special Issue on Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery.
 - **Reviewer:** IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TSP, IEEE TNNLS, IEEE TGRS, IEEE TCSVT, IEEE TCI, IEEE TBD, IJCV, NeurIPS, CVPR, AAAI, and over 40 journals and conferences in total.
+
+<span class="anchor" id="collaborators"></span>
 
 # 🤝 Collaborators
 
