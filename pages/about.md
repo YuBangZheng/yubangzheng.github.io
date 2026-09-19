@@ -96,7 +96,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="grants"></span>
 
-# Research Grants
+# Grants
 
 - 国家自然科学基金青年项目, 主持, 2024.01-2026.12
 - 四川省自然科学基金青年项目，主持，2024.01-2025.12
