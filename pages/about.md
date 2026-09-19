@@ -61,8 +61,10 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 ### 2026
 
-- <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications”, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. 
+- <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications”, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026.
+
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, “Self-Attention Driven Tensor Representation for High-Order Data Recovery”, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
+
 - <span class="pub-venue">TCSVT 2026</span> Tian-Yu Ma, Heng-Chao Li, **Yu-Bang Zheng\***, Lianru Gao, Qian Du, “Low-Rank Tensor Representation Learning Network for Robust Hyperspectral Image Classification against Adversarial Attacks”, _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11667064)
 
 - <span class="pub-venue">TCSVT 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, “Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition”, _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834) [[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
