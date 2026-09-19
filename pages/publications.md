@@ -5,11 +5,11 @@ excerpt: "Complete publication list of Yu-Bang Zheng"
 author_profile: true
 ---
 
-## Preprints
+## 📝 Preprints
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, “Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery,” submitted.
 
-## Publications
+## 📄 Publications
 
 - **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models,” Book Chapter In Machine-Learning-Based Hyperspectral Image Processing, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
