@@ -20,3 +20,6 @@ main:
 
   - title: "Service"
     url: "/#service"
+
+  - title: "Collaborators"
+    url: "/#Collaborators"
