@@ -1,16 +1,19 @@
-# Main navigation
+# main links links
 main:
-  - title: "Research"
-    url: "/#research"
+  - title: "About Me"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#news"
 
+  - title: "Projects"
+    url: "/#projects"
+
+  - title: "Selected Works"
+    url: "/#selected-publications"
+
   - title: "Publications"
     url: "/publications/"
-
-  - title: "Open Source"
-    url: "/#open-source"
 
   - title: "Education"
     url: "/#education"
@@ -18,5 +21,5 @@ main:
   - title: "Honors"
     url: "/#honors"
 
-  - title: "Service"
-    url: "/#service"
+  - title: "Activities"
+    url: "/#academic-activities"
