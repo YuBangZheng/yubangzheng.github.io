@@ -14,9 +14,10 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <div class="profile-links">
   <a href="mailto:zhengyubang@163.com">Email</a>
+  <a href="mailto:yubangzheng@swjtu.edu.cn"> Email in SWJTU</a>
   <a href="https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ">Google Scholar</a>
   <a href="https://github.com/YuBangZheng">GitHub</a>
-  <a href="https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm">SWJTU Profile</a>
+  <a href="https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm">学校主页</a>
 </div>
 
 <div class="recruitment-note">
