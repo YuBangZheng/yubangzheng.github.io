@@ -90,41 +90,35 @@ I am an Associate Professor with the [School of Information Science and Technolo
 # Education
 
 - **2021.03–2022.12** — Student Trainee, Tensor Learning Team, RIKEN Center for Advanced Intelligence Project; supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io).
-- **2019.09–2022.12** — Ph.D. in Applied Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
-- **2017.09–2019.07** — M.S. in Applied Mathematics, University of Electronic Science and Technology of China.
+- **2019.09–2022.12** — Ph.D. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
+- **2017.09–2019.07** — M.S. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)..
 - **2013.09–2017.07** — B.S. in Information and Computing Science, Anhui University of Finance and Economics.
 
 <span class="anchor" id="grants"></span>
 
 # Research Grants
 
-- National Natural Science Foundation of China, Young Scientists Fund, Principal Investigator, 2024–2026.
-- Natural Science Foundation of Sichuan Province, Young Scientists Fund, Principal Investigator, 2024–2025.
-- China Postdoctoral Science Foundation, Special Funding, Principal Investigator, 2025–2026.
-- Fundamental Research Funds for the Central Universities, Principal Investigator, 2024–2025.
+- 国家自然科学基金青年项目, 主持, 2024.01-2026.12
+- 四川省自然科学基金青年项目，主持，2024.01-2025.12
+- 中国博士后科学基金特别资助项目，主持，2025.08-2026.07
+- 中央高校基本业务项目，主持，2024.01-2025.12
 
 <span class="anchor" id="honors"></span>
 
 # Honors and Awards
 
-- Second Prize, Natural Science Award of the Ministry of Education, third contributor, 2025.
-- Third Prize, Sichuan Provincial Natural Science Award, third contributor, 2024.
-- First Prize, Outstanding Paper Award of the Sichuan–Chongqing Science and Technology Academic Conference, first contributor, 2021. [[News]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
-- Outstanding Graduate of Sichuan Province, 2023.
+-  2025年度教育部自然科学奖二等奖, 排名第三, 中华人民共和国教育部, 2025
+-  2024年度四川省自然科学奖三等奖, 排名第三, 四川省人民政府, 2024
+-  2021年度川渝科技学术大会优秀论文一等奖, 排名第一, 四川省科协和重庆市科协, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
 
 <span class="anchor" id="service"></span>
 
 # Academic Service
 
 - **Guest Editor:** _Optik_ Special Issue on Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery.
-- **Reviewer:** IEEE TPAMI, IJCV, IEEE TKDE, IEEE TIP, IEEE TNNLS, IEEE TGRS, IEEE TCSVT, IEEE J-STSP, Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, Pattern Recognition, NeurIPS, AAAI, and other journals and conferences.
+- **Reviewer:** IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TSP, IEEE TNNLS, IEEE TGRS, IEEE TCSVT, IEEE TCI, IEEE TBD, IJCV, NeurIPS, AAAI, and over 40 journals and conferences in total.
 
-## Selected Talks
-
-- **AAAI 2021** — “Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion.” [[Slides]](/papers/Slide_FCTN_decomposition.pdf)
-- **IGARSS 2019** — “Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization,” oral presentation, Yokohama, Japan. [[Slides]](/papers/Oral_IGARSS2019_ybz.pdf)
-
-## Collaborators
+# Collaborators
 
 [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) ·
 [Prof. Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm) ·
