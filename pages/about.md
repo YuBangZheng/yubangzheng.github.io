@@ -57,7 +57,9 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 # Selected Publications 
 
-[View all publications →](/publications/){: .btn .btn--primary }
+<a href="/publications/" class="btn btn--primary" style="font-size:0.85em; padding:6px 12px;">
+  View all publications →
+</a>
 
 - <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao, Heng-Chao Li, et al. “A Structure-Revealing Tensor Network Paradigm and Its Applications.” _IEEE Transactions on Pattern Analysis and Machine Intelligence_. [[Paper]](https://doi.org/10.1109/TPAMI.2026.3735826)
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng***, Heng-Chao Li. “Self-Attention Driven Tensor Representation for High-Order Data Recovery.” _CVPR_, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
