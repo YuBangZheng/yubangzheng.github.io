@@ -57,6 +57,8 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 # 📄 Selected Publications [[View All Publications →]](/publications/)
 
+- <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models”, in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang, Ed., _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
+
 - <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications”, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. 
 
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, “Self-Attention Driven Tensor Representation for High-Order Data Recovery”, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
