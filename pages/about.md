@@ -57,7 +57,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 # Selected Publications 
 
-<p class="section-link"><a href="/publications/">View all publications →</a></p>
+[View all publications →](/publications/){: .btn .btn--primary }
 
 - <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao, Heng-Chao Li, et al. “A Structure-Revealing Tensor Network Paradigm and Its Applications.” _IEEE Transactions on Pattern Analysis and Machine Intelligence_. [[Paper]](https://doi.org/10.1109/TPAMI.2026.3735826)
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng***, Heng-Chao Li. “Self-Attention Driven Tensor Representation for High-Order Data Recovery.” _CVPR_, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
@@ -116,7 +116,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 # Academic Service
 
 - **Guest Editor:** _Optik_ Special Issue on Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery.
-- **Reviewer:** IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TSP, IEEE TNNLS, IEEE TGRS, IEEE TCSVT, IEEE TCI, IEEE TBD, IJCV, NeurIPS, AAAI, and over 40 journals and conferences in total.
+- **Reviewer:** IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TSP, IEEE TNNLS, IEEE TGRS, IEEE TCSVT, IEEE TCI, IEEE TBD, IJCV, NeurIPS, CVPR, AAAI, and over 40 journals and conferences in total.
 
 # Collaborators
 
