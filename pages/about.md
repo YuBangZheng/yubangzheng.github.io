@@ -57,7 +57,7 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 # 📄 Selected Publications [[View All Publications →]](/publications/)
 
-- <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models”, in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang, Ed., _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
+- <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models”, in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
 ### 2026
 
