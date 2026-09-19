@@ -12,18 +12,6 @@ redirect_from:
 
 I am an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2022.
 
-<div class="profile-links">
-  <a href="mailto:zhengyubang@163.com">Email</a>
-  <a href="mailto:yubangzheng@swjtu.edu.cn"> Email in SWJTU</a>
-  <a href="https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ">Google Scholar: 1900+</a>
-  <a href="https://github.com/YuBangZheng">GitHub</a>
-  <a href="https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm">学校主页</a>
-</div>
-
-<div class="recruitment-note">
-  <strong>Prospective students:</strong> Our team recruits 1–2 Ph.D. students and 7–10 master’s students each year. Research opportunities are also available for motivated undergraduate students. Please contact me by email if you are interested in joining us.
-</div>
-
 <span class="anchor" id="research"></span>
 
 # Research
