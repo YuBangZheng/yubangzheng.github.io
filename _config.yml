@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu-Bang Zheng (郑玉棒) | SWJTU"
-description              : "Associate Professor at Southwest Jiaotong University. Research in tensor modeling, machine learning, and high-dimensional image processing."
+description              : "<br>"
 url                      : "https://yubangzheng.github.io"
 repository               : "yubangzheng/yubangzheng.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yu-Bang Zheng (郑玉棒)"
+  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
   avatar           : "images/yubangzheng.jpg"
   bio              : "Associate Professor at Southwest Jiaotong University"
   location         : "Chengdu, China"
