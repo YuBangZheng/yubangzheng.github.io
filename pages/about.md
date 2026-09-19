@@ -47,7 +47,7 @@ I am an Associate Professor at the [School of Information Science and Technology
   <summary>Earlier news</summary>
   <ul>
     <li><strong>Apr. 2026</strong> — One paper was accepted for publication in <em>IEEE Transactions on Image Processing</em>.</li>
-    <li><strong>Feb. 2026</strong> — One paper was accepted by CVPR 2026 as a Poster Highlight.</li>
+    <li><strong>Feb. 2026</strong> — One paper was accepted for publication in <em>CVPR 2026<em>.</li>
     <li><strong>Feb. 2026</strong> — One paper was accepted for publication in <em>IEEE Transactions on Circuits and Systems for Video Technology</em>.</li>
     <li><strong>Jan. 2026</strong> — One paper was accepted for publication in <em>Pattern Recognition</em>.</li>
   </ul>
