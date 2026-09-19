@@ -15,12 +15,6 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Grants"
-    url: "/#grants"
-
-  - title: "Honors"
-    url: "/#honors"
-
   - title: "Service"
     url: "/#service"
 
