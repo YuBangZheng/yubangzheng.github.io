@@ -67,20 +67,25 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 - <span class="pub-venue">TGRS 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, “Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images”, _IEEE Transactions on Geoscience and Remote Sensing_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
 
+- <span class="pub-venue">TIP 2026</span> Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, “Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction”, _IEEE Transactions on Image Processing_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
+
+
+- <span class="pub-venue">TGRS 2025</span> **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images”, _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
+
+- <span class="pub-venue">Neural Networks 2025</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects”, _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
+
+- <span class="pub-venue">TGRS 2025</span> Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, “Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images”, _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
+
+- <span class="pub-venue">PR 2025</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, “Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction”, _Pattern Recognition_, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942) [[Code]](https://yubangzheng.github.io/codes/code_3DCNTNN.zip)
+
+- <span class="pub-venue">SISC 2025</span> Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, “Functional Tensor Singular Value Decomposition”, _SIAM Journal on Scientific Computing_, 2025. [[Website]](https://epubs.siam.org/doi/abs/10.1137/24M1644687)
+
+- <span class="pub-venue">TNNLS 2025</span> Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, “Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification”, _IEEE Transactions on Neural Networks and Learning Systems_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
 
 
 
 
 
-
-
-
-- <span class="pub-venue">TGRS 2025</span> **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li*, Zhi-Wei Shi, Qing Zhu. “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images.” _IEEE TGRS_, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11123527) [[Code]](/codes/Code_BTR_CR.zip)
-- <span class="pub-venue">Neural Networks 2025</span> **Yu-Bang Zheng**, Xi-Le Zhao*, Heng-Chao Li*, et al. “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects.” _Neural Networks_, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
-- <span class="pub-venue">CVPR 2024</span> **Yu-Bang Zheng**, Xi-Le Zhao*, Junhua Zeng, et al. “SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective.” _CVPR_, 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Code]](/codes/code_SVDinsTN.zip) <span class="publication-note">Poster Highlight</span>
-- <span class="pub-venue">JSC 2022</span> **Yu-Bang Zheng**, Ting-Zhu Huang*, Xi-Le Zhao*, Qibin Zhao. “Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors.” _Journal of Scientific Computing_, 2022. [[Paper]](https://link.springer.com/article/10.1007/s10915-022-01841-8) [[Code]](/codes/code_FCTNFR.zip) <span class="publication-note">ESI Highly Cited Paper</span>
-- <span class="pub-venue">AAAI 2021</span> **Yu-Bang Zheng**, Ting-Zhu Huang*, Xi-Le Zhao*, Qibin Zhao, Tai-Xiang Jiang. “Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion.” _AAAI_, 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Code]](/codes/code_FCTN_Decomposition.zip)
-- <span class="pub-venue">TGRS 2020</span> **Yu-Bang Zheng**, Ting-Zhu Huang*, Xi-Le Zhao*, et al. “Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization.” _IEEE TGRS_, 2020. [[Paper]](https://ieeexplore.ieee.org/document/8854307) [[Code]](/codes/code_TGRS_low-fibered-rank.zip) <span class="publication-note">ESI Highly Cited Paper</span>
 {: .selected-publications }
 
 
