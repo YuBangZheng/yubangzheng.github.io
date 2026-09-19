@@ -5,13 +5,11 @@ excerpt: "Complete publication list of Yu-Bang Zheng"
 author_profile: true
 ---
 
-A complete list of publications is provided below. **Yu-Bang Zheng** denotes my name, and an asterisk indicates the corresponding author.
-
 ## Preprints
 
 - Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, \"Parameterized Convolutional Tensor Representation for Spatio-Irregular Multi-Dimensional Data Recovery\", submitted.
 
-## Peer-Reviewed Publications
+## Publications
 
 ### 2026
 
@@ -123,7 +121,7 @@ A complete list of publications is provided below. **Yu-Bang Zheng** denotes my 
 
 - **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[Website]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. [[Website]](https://ieeexplore.ieee.org/document/9084248) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip) (<span style="color:red">2021渝科技学术大会优秀论文一等奖</span>)
+- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. [[Website]](https://ieeexplore.ieee.org/document/9084248) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip) (<span style="color:red">2021川渝科技学术大会优秀论文一等奖</span>)
 
 - **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[Website]](https://www.sciencedirect.com/science/article/pii/S0020025520303923) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
 
