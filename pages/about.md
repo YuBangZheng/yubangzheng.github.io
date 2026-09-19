@@ -19,7 +19,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 <div class="research-grid">
   <div class="research-card">
     <h3>Tensor Modeling and Computing</h3>
-    <p>Low-rank tensor modeling, tensor decompositions, tensor networks, and efficient tensor computation.</p>
+    <p>Low-rank modeling, tensor representation, tensor decompositions, tensor networks, and efficient tensor computation.</p>
   </div>
   <div class="research-card">
     <h3>Artificial Intelligence and Theory</h3>
