@@ -91,7 +91,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 - **2021.03–2022.12** — Student Trainee, Tensor Learning Team, RIKEN Center for Advanced Intelligence Project; supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io).
 - **2019.09–2022.12** — Ph.D. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
-- **2017.09–2019.07** — M.S. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm)..
+- **2017.09–2019.07** — M.S. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
 - **2013.09–2017.07** — B.S. in Information and Computing Science, Anhui University of Finance and Economics.
 
 <span class="anchor" id="grants"></span>
