@@ -14,7 +14,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="research"></span>
 
-# Research Interests
+# 🤖 Research Interests
 
 <div class="research-grid">
   <div class="research-card">
@@ -33,7 +33,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="news"></span>
 
-# News
+# 🔔 News
 
 - **Sep. 2026** — Our paper was accepted for publication in _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 - **Sep. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
@@ -55,7 +55,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="selected-publications"></span>
 
-# Selected Publications [[View All Publications →]](/publications/)
+# 📄 Selected Publications [[View All Publications →]](/publications/)
 
 - <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao, Heng-Chao Li, et al. “A Structure-Revealing Tensor Network Paradigm and Its Applications.” _IEEE Transactions on Pattern Analysis and Machine Intelligence_. [[Paper]](https://doi.org/10.1109/TPAMI.2026.3735826)
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng***, Heng-Chao Li. “Self-Attention Driven Tensor Representation for High-Order Data Recovery.” _CVPR_, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
@@ -70,7 +70,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="open-source"></span>
 
-# Open-Source Projects
+# 🧰 Open-Source Projects
 
 <div class="project-grid">
   <a class="project-card" href="https://github.com/YuBangZheng/TenNet_ToolBox">
@@ -85,7 +85,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="education"></span>
 
-# Education
+# 📖 Education
 
 - **2021.03–2022.12** — Student Trainee, Tensor Learning Team, RIKEN Center for Advanced Intelligence Project; supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io).
 - **2019.09–2022.12** — Ph.D. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
@@ -94,7 +94,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="grants"></span>
 
-# Grants
+# 💾 Grants
 
 - 国家自然科学基金青年项目, 主持, 2024.01-2026.12
 - 四川省自然科学基金青年项目，主持，2024.01-2025.12
@@ -103,7 +103,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="honors"></span>
 
-# Honors and Awards
+# 🏆 Honors and Awards
 
 -  2025年度教育部自然科学奖二等奖, 排名第三, 中华人民共和国教育部, 2025
 -  2024年度四川省自然科学奖三等奖, 排名第三, 四川省人民政府, 2024
@@ -111,12 +111,12 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="service"></span>
 
-# Academic Service
+# 🌐 Academic Service
 
 - **Guest Editor:** _Optik_ Special Issue on Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery.
 - **Reviewer:** IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TSP, IEEE TNNLS, IEEE TGRS, IEEE TCSVT, IEEE TCI, IEEE TBD, IJCV, NeurIPS, CVPR, AAAI, and over 40 journals and conferences in total.
 
-# Collaborators
+# 🤝 Collaborators
 
 - [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) · [Prof. Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm) · [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) · [Prof. Qing Zhu](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm) · [Prof. Qibin Zhao](https://qibinzhao.github.io)
 - ...
