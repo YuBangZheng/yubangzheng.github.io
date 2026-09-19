@@ -1,0 +1,22 @@
+# Main navigation
+main:
+  - title: "Research"
+    url: "/#research"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Publications"
+    url: "/publications/"
+
+  - title: "Open Source"
+    url: "/#open-source"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Honors"
+    url: "/#honors"
+
+  - title: "Service"
+    url: "/#service"
