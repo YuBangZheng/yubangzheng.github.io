@@ -10,9 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2022 under the supervision of Prof. [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
-
-My research interests include **tensor modeling and computing**, **machine learning and its mathematical foundations**, and **high-dimensional image processing**.
+I am an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2022.
 
 <div class="profile-links">
   <a href="mailto:zhengyubang@163.com">Email</a>
@@ -48,7 +46,7 @@ My research interests include **tensor modeling and computing**, **machine learn
 
 # News
 
-- **Sep. 2026** — Our paper on structure-revealing tensor networks was accepted for publication in _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+- **Sep. 2026** — Our paper was accepted for publication in _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 - **Sep. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
 - **Aug. 2026** — One paper was accepted for publication in _IEEE Transactions on Circuits and Systems for Video Technology_.
 - **Aug. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
