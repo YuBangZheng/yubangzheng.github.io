@@ -35,7 +35,7 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 # 🔔 News
 
-- **Sep. 2026** — Our paper was accepted for publication in _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+- **Sep. 2026** — One paper was accepted for publication in _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 - **Sep. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
 - **Aug. 2026** — One paper was accepted for publication in _IEEE Transactions on Circuits and Systems for Video Technology_.
 - **Aug. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
