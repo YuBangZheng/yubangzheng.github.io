@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2022.
+I am an Associate Professor at the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2022.
 
 <span class="anchor" id="research"></span>
 
@@ -59,6 +59,8 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 - <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models”, in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang, Ed., _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
+### 2026
+
 - <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications”, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. 
 
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, “Self-Attention Driven Tensor Representation for High-Order Data Recovery”, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
@@ -71,6 +73,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 - <span class="pub-venue">TIP 2026</span> Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, “Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction”, _IEEE Transactions on Image Processing_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
 
+### 2025
 
 - <span class="pub-venue">TGRS 2025</span> **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images”, _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
 
@@ -84,13 +87,19 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 - <span class="pub-venue">TNNLS 2025</span> Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, “Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification”, _IEEE Transactions on Neural Networks and Learning Systems_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
 
+### 2024
+
 - <span class="pub-venue">CVPR 2024</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, “SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective”, _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2024. [[Website]](https://ieeexplore.ieee.org/abstract/document/10655696) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_SVDinsTN.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf) [[Code]](https://yubangzheng.github.io/codes/code_SVDinsTN.zip) <span class="publication-note">Poster Highlight, 11.9% of Accepted Papers</span>
 
 - <span class="pub-venue">TGRS 2024</span> Jia-Jie Yin, Heng-Chao Li, **Yu-Bang Zheng\***, Gui Gao, Yuxin Hu, Ran Tao, “Spatial-Temporal Weighted and Regularized Tensor Model for Infrared Dim and Small Target Detection”, _IEEE Transactions on Geoscience and Remote Sensing_, 2024. [[Website]](https://ieeexplore.ieee.org/document/10583915/)
 
+### 2023
+
 - <span class="pub-venue">TGRS 2023</span> Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, “Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity”, _IEEE Transactions on Geoscience and Remote Sensing_, 2023. [[Website]](https://ieeexplore.ieee.org/document/10125571/)
 
 - <span class="pub-venue">ISPRS JPRS 2023</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, “Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal”, _ISPRS Journal of Photogrammetry and Remote Sensing_, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+
+### 2019~2022
 
 - <span class="pub-venue">JSC 2022</span> **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, “Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors”, _Journal of Scientific Computing_, 2022. [[Website]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) <span class="publication-note">ESI Highly Cited Paper</span>
 
