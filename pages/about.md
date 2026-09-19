@@ -139,23 +139,6 @@ I am an Associate Professor at the [School of Information Science and Technology
 - **2017.09–2019.07** — M.S. in Mathematics, University of Electronic Science and Technology of China; supervisor: [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm).
 - **2013.09–2017.07** — B.S. in Information and Computing Science, Anhui University of Finance and Economics.
 
-<span class="anchor" id="grants"></span>
-
-# 💾 Grants
-
-- 国家自然科学基金青年项目, 主持, 2024.01-2026.12
-- 四川省自然科学基金青年项目，主持，2024.01-2025.12
-- 中国博士后科学基金特别资助项目，主持，2025.08-2026.07
-- 中央高校基本业务项目，主持，2024.01-2025.12
-
-<span class="anchor" id="honors"></span>
-
-# 🏆 Honors and Awards
-
--  2025年度教育部自然科学奖二等奖, 排名第三, 中华人民共和国教育部, 2025
--  2024年度四川省自然科学奖三等奖, 排名第三, 四川省人民政府, 2024
--  2021年度川渝科技学术大会优秀论文一等奖, 排名第一, 四川省科协和重庆市科协, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
-
 <span class="anchor" id="service"></span>
 
 # 🌐 Academic Service
