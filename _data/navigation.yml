@@ -1,7 +1,7 @@
 # Main navigation
 main:
-  - title: "Research"
-    url: "/#research"
+  - title: "Research Interests"
+    url: "/#research-interests"
 
   - title: "News"
     url: "/#news"
@@ -15,6 +15,9 @@ main:
   - title: "Education"
     url: "/#education"
 
+  - title: "Grants"
+    url: "/#grants"
+
   - title: "Honors"
     url: "/#honors"
 
@@ -22,4 +25,4 @@ main:
     url: "/#service"
 
   - title: "Collaborators"
-    url: "/#Collaborators"
+    url: "/#collaborators"
