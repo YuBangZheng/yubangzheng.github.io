@@ -29,7 +29,7 @@ author_profile: true
 
 - Bin Xiao, **Yu-Bang Zheng**, Heng-Chao Li\*, “High-Order Tensor Completion via A Learnable T-product-Induced Fully-Connected Tensor Network Decomposition,” _Pattern Recognition_, vol. 180, pp. 114332, 2026. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012975)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, “Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery,” _IEEE Transactions on Multimedia_, doi: 10.1109/TMM.2026.3721314, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, “Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery,” _IEEE Transactions on Multimedia_, DOI: 10.1109/TMM.2026.3721314, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
 
 - Jia-Jie Yin, Heng-Chao Li\*, **Yu-Bang Zheng**, Xiong-Fei Geng, Jie Pan, “DNN-Aided Low-Rank and Sparse Decomposition Model for Infrared Small Target Detection,” _Pattern Recognition_, vol. 175, pp. 113070, 2026. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000336)
 
