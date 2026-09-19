@@ -14,7 +14,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 <span class="anchor" id="research"></span>
 
-# Research
+# Research Interests
 
 <div class="research-grid">
   <div class="research-card">
