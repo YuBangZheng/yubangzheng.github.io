@@ -19,15 +19,15 @@ I am an Associate Professor with the [School of Information Science and Technolo
 <div class="research-grid">
   <div class="research-card">
     <h3>Tensor Modeling and Computing</h3>
-    <p>Low-rank tensor models, tensor decompositions, tensor networks, and tensor computation.</p>
+    <p>Low-rank tensor modeling, tensor decompositions, tensor networks, and efficient tensor computation.</p>
   </div>
   <div class="research-card">
-    <h3>Machine Learning and Optimization</h3>
-    <p>Machine learning, model-driven learning, numerical optimization, and theoretical analysis.</p>
+    <h3>Artificial Intelligence and Theory</h3>
+    <p>Mdel-guided deep learning, learning-enhanced mathematical modeling, numerical optimization, and theoretical analysis.</p>
   </div>
   <div class="research-card">
     <h3>High-Dimensional Data Processing</h3>
-    <p>Image and video restoration, remote sensing data processing, and multisource data analysis.</p>
+    <p>Image and video restoration, remote sensing data processing, and multisource data analysis and understanding.</p>
   </div>
 </div>
 
