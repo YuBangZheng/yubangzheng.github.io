@@ -120,9 +120,5 @@ I am an Associate Professor with the [School of Information Science and Technolo
 
 # Collaborators
 
-- [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) 
-- [Prof. Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm) 
-- [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) 
-- [Prof. Qing Zhu](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
-- [Prof. Qibin Zhao](https://qibinzhao.github.io)
+- [Prof. Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm) · [Prof. Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm) · [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) · [Prof. Qing Zhu](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm) · [Prof. Qibin Zhao](https://qibinzhao.github.io)
 - ...
