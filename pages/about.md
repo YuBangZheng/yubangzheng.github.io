@@ -23,7 +23,7 @@ I am an Associate Professor with the [School of Information Science and Technolo
   </div>
   <div class="research-card">
     <h3>Artificial Intelligence and Theory</h3>
-    <p>Mdel-guided deep learning, learning-enhanced mathematical modeling, numerical optimization, and theoretical analysis.</p>
+    <p>Mdel-driven deep learning, learning-enhanced mathematical modeling, numerical optimization, and theoretical analysis.</p>
   </div>
   <div class="research-card">
     <h3>High-Dimensional Data Processing</h3>
