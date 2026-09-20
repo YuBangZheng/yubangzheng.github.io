@@ -67,11 +67,13 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 - <span class="pub-venue">TCSVT 2026</span> Tian-Yu Ma, Heng-Chao Li, **Yu-Bang Zheng\***, Lianru Gao, Qian Du, “Low-Rank Tensor Representation Learning Network for Robust Hyperspectral Image Classification against Adversarial Attacks”, _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11667064)
 
-- <span class="pub-venue">TCSVT 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, “Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition”, _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834) [[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
-
 - <span class="pub-venue">TGRS 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, “Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images”, _IEEE Transactions on Geoscience and Remote Sensing_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
 
 - <span class="pub-venue">TIP 2026</span> Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, “Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction”, _IEEE Transactions on Image Processing_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
+
+- - <span class="pub-venue">TMM 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, “Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery,” _IEEE Transactions on Multimedia_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
+
+- <span class="pub-venue">TCSVT 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, “Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition”, _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834) [[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
 
 ### 2025
 
