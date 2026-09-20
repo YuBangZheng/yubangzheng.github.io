@@ -27,7 +27,7 @@ I am an Associate Professor at the [School of Information Science and Technology
   </div>
   <div class="research-card">
     <h3>High-Dimensional Data Processing</h3>
-    <p>Image and video restoration, remote sensing data processing, multisource data analysis, and irregular data processing.</p>
+    <p>Image and video restoration, remote sensing data analysis, multisource data fusion, and irregular data processing.</p>
   </div>
 </div>
 
