@@ -23,7 +23,7 @@ author_profile: true
 
 - Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, “Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition,” _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 6, pp. 8260-8273, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834) [[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, “Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2026.3731463, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
+- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, “Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, art no. 5408312, pp. 1-12, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
 
 - Zhe-Min Wei, **Yu-Bang Zheng**, Heng-Chao Li\*, Lianru Gao, “Latent Diffusion Prior Enhanced Frequency-Aware Deep Unfolding Network for Hyperspectral Image Denoising,” _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2026.3731221, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683243)
 
