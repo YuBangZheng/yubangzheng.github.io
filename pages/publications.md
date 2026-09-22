@@ -15,7 +15,7 @@ author_profile: true
 
 ### 2026
 
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications,” _IEEE Transactions on Pattern Analysis and Machine Intelligence_, DOI: 10.1109/TPAMI.2026.3735826, 2026.
+- **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications,” _IEEE Transactions on Pattern Analysis and Machine Intelligence_, DOI: 10.1109/TPAMI.2026.3735826, 2026. [[Website]](https://ieeexplore.ieee.org/document/11699103)
 
 - Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, “Self-Attention Driven Tensor Representation for High-Order Data Recovery,” _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26399-26408, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) (<span style="color:red">Poster Highlight</span>)
 
