@@ -65,7 +65,7 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 - <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models,” in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
-- <span class="pub-venue">NN 2025</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
+- <span class="pub-venue">Survey</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
 ### Research Papers
 
