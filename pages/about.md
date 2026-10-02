@@ -71,7 +71,7 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 - <span class="pub-venue">TGRS 2025</span> **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
 
-- <span class="pub-venue">Neural Networks 2025</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
+- <span class="pub-venue">NN 2025</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
 - <span class="pub-venue">TGRS 2025</span> Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, “Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
 
