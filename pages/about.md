@@ -40,6 +40,7 @@ I am an Associate Professor at the [School of Information Science and Technology
 # 🔔 News
 
 - **Sep. 2026** — One paper was accepted for publication in _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+- **Sep. 2026** — One paper was accepted for publication in _Science China Technological Sciences_.
 - **Sep. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
 - **Aug. 2026** — One paper was accepted for publication in _IEEE Transactions on Circuits and Systems for Video Technology_.
 - **Aug. 2026** — One paper was accepted for publication in _IEEE Transactions on Geoscience and Remote Sensing_.
@@ -74,6 +75,8 @@ I am an Associate Professor at the [School of Information Science and Technology
 - <span class="pub-venue">CVPR 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, “Self-Attention Driven Tensor Representation for High-Order Data Recovery,” _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2026. [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Self-Attention_Driven_Tensor_Representation_for_High-Order_Data_Recovery_CVPR_2026_paper.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SADTR.pdf) <span class="publication-note">Poster Highlight</span>
 
 - <span class="pub-venue">TCSVT 2026</span> Tian-Yu Ma, Heng-Chao Li, **Yu-Bang Zheng\***, Lianru Gao, Qian Du, “Low-Rank Tensor Representation Learning Network for Robust Hyperspectral Image Classification against Adversarial Attacks,” _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11667064)
+
+- <span class="pub-venue">SCTS 2026</span> Ke-Xin Li, Jia-Jie Yin, **Yu-Bang Zheng\***, Heng-Chao Li, “Bilateral Tensor Ring Decomposition for Moving Infrared Small Targets Detection,” _Science China Technological Sciences_, 2026.
 
 - <span class="pub-venue">TGRS 2025</span> **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
 
