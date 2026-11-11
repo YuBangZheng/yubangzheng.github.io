@@ -85,9 +85,9 @@ I am an Associate Professor at the [School of Information Science and Technology
 - <span class="pub-venue">TGRS 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, “Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
 
 - <span class="pub-venue">TMM 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, “Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery,” _IEEE Transactions on Multimedia_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
-- 
+
 - <span class="pub-venue">TIP 2026</span> Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, “Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction,” _IEEE Transactions on Image Processing_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
-- 
+
 - <span class="pub-venue">TVSVT 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, “Dynamic Low-Rank Tensor Decomposition for Video Applications,” _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
 
 ### 2025
@@ -97,6 +97,11 @@ I am an Associate Professor at the [School of Information Science and Technology
 - <span class="pub-venue">TGRS 2025</span> Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, “Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
 
 - <span class="pub-venue">PR 2025</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, “Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction,” _Pattern Recognition_, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942) [[Code]](https://yubangzheng.github.io/codes/code_3DCNTNN.zip)
+
+- <span class="pub-venue">SISC 2025</span> Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, “Functional Tensor Singular Value Decomposition,” _SIAM Journal on Scientific Computing_, 2025. [[Website]](https://epubs.siam.org/doi/abs/10.1137/24M1644687)
+
+- <span class="pub-venue">TNNLS 2025</span> Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, “Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification,” _IEEE Transactions on Neural Networks and Learning Systems_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
+
 
 ### 2024
 
