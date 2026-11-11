@@ -194,8 +194,6 @@ I am an Associate Professor at the [School of Information Science and Technology
 - Jian-Li Wang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, “Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping,” _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[Website]](https://ieeexplore.ieee.org/abstract/document/8855071) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
 
 
-{: .publications }
-
 
 <span class="anchor" id="open-source"></span>
 
