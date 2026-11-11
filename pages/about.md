@@ -107,6 +107,11 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 - <span class="pub-venue">CVPR 2024</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, “SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective,” _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2024. [[Website]](https://ieeexplore.ieee.org/abstract/document/10655696) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Supplementary Material]](https://ieeexplore.ieee.org/document/11699103) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf)  [[Code_MATLAB]](https://yubangzheng.github.io/codes/code_SVDinsTN.zip) [[Code_Python]](https://yubangzheng.github.io/codes/code_SVDinsTN_Python.zip) <span class="publication-note">Poster Highlight</span>
 
+- <span class="pub-venue">TGRS 2024</span> Jia-Jie Yin, Heng-Chao Li, **Yu-Bang Zheng\***, Gui Gao, Yuxin Hu, Ran Tao, “Spatial-Temporal Weighted and Regularized Tensor Model for Infrared Dim and Small Target Detection,” _IEEE Transactions on Geoscience and Remote Sensing_, 2024. [[Website]](https://ieeexplore.ieee.org/document/10583915/)
+
+- <span class="pub-venue">JSC 2024</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, “Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition,” _Journal of Scientific Computing_, 2024. [[Website]](https://link.springer.com/article/10.1007/s10915-023-02404-1)
+
+
 ### 2019-2023
 
 - <span class="pub-venue">JSC 2022</span> **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, “Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors,” _Journal of Scientific Computing_, 2022. [[Website]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) <span class="publication-note">ESI Highly Cited Paper</span>
