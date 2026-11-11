@@ -58,17 +58,19 @@ I am an Associate Professor at the [School of Information Science and Technology
   </ul>
 </details>
 
-<span class="anchor" id="selected-publications"></span>
+<span class="anchor" id="publications"></span>
  
-# 📄 Selected Publications [[View All Publications →]](/publications/)
+# 📄 Publications
 
-### Book Chapters and Surveys
+## Book Chapters and Surveys
 
 - <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models,” in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
-- <span class="pub-venue">Survey</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
+- <span class="pub-venue">Survey</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, vol. 191, pp. 107808, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
-### Research Papers
+## Research Papers
+
+### 2026
 
 - **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications,” _IEEE Transactions on Pattern Analysis and Machine Intelligence_, DOI: 10.1109/TPAMI.2026.3735826, 2026. [[Website]](https://ieeexplore.ieee.org/document/11699103) [[PDF]](https://yubangzheng.github.io/papers/TPAMI_SVDinsTN_Zheng.pdf) [[Code_MATLAB]](https://yubangzheng.github.io/codes/code_SVDinsTN.zip) [[Code_Python]](https://yubangzheng.github.io/codes/code_SVDinsTN_Python.zip)
 
@@ -99,8 +101,6 @@ I am an Associate Professor at the [School of Information Science and Technology
 ### 2025
 
 - **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5406215, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
-
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, vol. 191, pp. 107808, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
 - Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, “Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
 
@@ -194,7 +194,7 @@ I am an Associate Professor at the [School of Information Science and Technology
 - Jian-Li Wang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, “Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping,” _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[Website]](https://ieeexplore.ieee.org/abstract/document/8855071) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
 
 
-{: .selected-publications }
+{: .publications }
 
 
 <span class="anchor" id="open-source"></span>
