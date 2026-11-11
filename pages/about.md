@@ -62,13 +62,15 @@ I am an Associate Professor at the [School of Information Science and Technology
  
 # 📄 Selected Publications [[View All Publications →]](/publications/)
 
-### Book Chapters and Surveys
+## Book Chapters and Surveys
 
 - <span class="pub-venue">Book Chapter</span> **Yu-Bang Zheng**, Jian-Li Wang, Xi-Le Zhao, “Hyperspectral Image Denoising Based on Tensor Models,” in _Machine-Learning-Based Hyperspectral Image Processing_, Bing Zhang (Book Editor), _Wiley_, 2026. [[Website]](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394267880.ch3)
 
 - <span class="pub-venue">Survey</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, “Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects,” _Neural Networks_, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
 
-### Research Papers
+## Research Papers
+
+### 2026
 
 - <span class="pub-venue">TPAMI 2026</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Junhua Zeng, Chao Li, Qibin Zhao, Ting-Zhu Huang, Qing Zhu, “A Structure-Revealing Tensor Network Paradigm and Its Applications,” _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11699103) [[PDF]](https://yubangzheng.github.io/papers/TPAMI_SVDinsTN_Zheng.pdf) [[Code_MATLAB]](https://yubangzheng.github.io/codes/code_SVDinsTN.zip) [[Code_Python]](https://yubangzheng.github.io/codes/code_SVDinsTN_Python.zip)
 
@@ -78,13 +80,29 @@ I am an Associate Professor at the [School of Information Science and Technology
 
 - <span class="pub-venue">SCTS 2026</span> Ke-Xin Li, Jia-Jie Yin, **Yu-Bang Zheng\***, Heng-Chao Li, “Bilateral Tensor Ring Decomposition for Moving Infrared Small Targets Detection,” _Science China Technological Sciences_, 2026.
 
+- <span class="pub-venue">TVSVT 2026</span> Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, “Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition,” _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834) [[Code]](https://yubangzheng.github.io/codes/code_DNLRTD_demo.zip)
+
+- <span class="pub-venue">TGRS 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, “Neural Operator-Based Continuous Tensor Representation for Thick Cloud Removal in Multi-Resolution Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11683291)
+
+- <span class="pub-venue">TMM 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, “Proximal Interaction-Driven Rank-(Lr,Lr,1) Block-Term Decomposition for Multimedia Data Recovery,” _IEEE Transactions on Multimedia_, 2026. [[Website]](https://ieeexplore.ieee.org/abstract/document/11643557)
+- 
+- <span class="pub-venue">TIP 2026</span> Sheng Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, “Block Customized Topology Term Decomposition for High-Dimensional Image Reconstruction,” _IEEE Transactions on Image Processing_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11493979)
+- 
+- <span class="pub-venue">TVSVT 2026</span> Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, “Dynamic Low-Rank Tensor Decomposition for Video Applications,” _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
+
+### 2025
+
 - <span class="pub-venue">TGRS 2025</span> **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, “Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
 
 - <span class="pub-venue">TGRS 2025</span> Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, “Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images,” _IEEE Transactions on Geoscience and Remote Sensing_, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
 
 - <span class="pub-venue">PR 2025</span> Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, “Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction,” _Pattern Recognition_, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942) [[Code]](https://yubangzheng.github.io/codes/code_3DCNTNN.zip)
 
+### 2024
+
 - <span class="pub-venue">CVPR 2024</span> **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, “SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective,” _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2024. [[Website]](https://ieeexplore.ieee.org/abstract/document/10655696) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Supplementary Material]](https://ieeexplore.ieee.org/document/11699103) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf)  [[Code_MATLAB]](https://yubangzheng.github.io/codes/code_SVDinsTN.zip) [[Code_Python]](https://yubangzheng.github.io/codes/code_SVDinsTN_Python.zip) <span class="publication-note">Poster Highlight</span>
+
+### 2019-2023
 
 - <span class="pub-venue">JSC 2022</span> **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, “Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors,” _Journal of Scientific Computing_, 2022. [[Website]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) <span class="publication-note">ESI Highly Cited Paper</span>
 
